@@ -1,0 +1,37 @@
+# Lightbox Photo Gallery module
+
+Version 1.0
+Kimmy Chirnside
+kimmy.chirnside@gmail.com
+
+I welcome all feedback and suggestions regarding functionality, working or not.  Or
+suggestions of how it could work better.
+
+This module adds a photo gallery management system and portlet to display gallery.  
+Images are processed by rmagick as thumbnails, so rmagick is a core requirement for
+this module.  Note that here we refer to images as the ThumbnailedImage class, not
+the ImageBlock class.
+The frontend uses jquery pretty photo library to display images as lightboxes.
+Images are fetched by the frontend portlet based on the section the images are loaded
+into.  I recommend making sections specifically for storing images for each instance
+of the portlet that is used.
+
+To install, download the source from github at http://github.com/k1mmeh/bcms_lb_photo_gallery.
+Then inside the root directory of the downloaded source, run:
+  gem build bcms_lb_photo_gallery.gemspec
+
+Then install the gem by running:
+  gem install bcms_photo_gallery-1.0.0.gem
+
+Now edit config/environment.rb and add the following line AFTER the inclusion of the
+browsercms gem:
+  config.gem 'bcms_photo_gallery', :version => '1.0.0'
+
+Then to install the files appropriately, run:
+  ruby script/generate browser_cms
+
+To make the javascript and css work for your portlet, you will need to add the following
+lines to the head of any layout that renders the portlet.
+
+  <%= stylesheet_link_tag '/bcms/lb_photo_gallery/stylesheets/prettyPhoto', :media => 'all' %>
+  <%= javascript_include_tag '/bcms/lb_photo_gallery/javascripts/jquery.prettyPhoto.js' %>
