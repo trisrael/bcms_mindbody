@@ -1,0 +1,26 @@
+<%= f.cms_text_field :name %>
+
+<h3>Authentication</h3>
+<%= f.label "SourceCredentials" %>
+<%= f.cms_text_field :source_name %>
+<%= f.cms_text_field :password %>
+<%= f.cms_text_field "SiteIDs" %>
+
+<h3>Filters</h3>
+<%= f.cms_text_field "StaffIDs" %>
+<%= f.cms_text_field :per_page %>
+
+<h4>Staff Types</h3>
+<%= f.cms_checkbox :staff %>
+<%= f.cms_checkbox :appointment_instructor %>
+<%= f.cms_checkbox :class_instructor %>
+<%= f.cms_checkbox :past_instructor %>
+
+<h4>Fields</h4>
+<%= f.cms_checkbox :name %>
+<%= f.cms_checkbox :bio %>
+<%= f.cms_checkbox :image %>
+<%= f.cms_checkbox :id %>
+
+
+<%= f.cms_template_editor :template %>

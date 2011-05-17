@@ -1,0 +1,1335 @@
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.2ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.5ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'portlets'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'dynamic_views'>
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+  [1m[36mSQL (1.1ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.6ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+Can't set a default_scope for soft_deleting: #<ActiveRecord::StatementInvalid: Could not find table 'file_blocks'>
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.4ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations"[0m
+Migrating to Browsercms300 (20080815014337)
+  [1m[35mSQL (0.1ms)[0m  select sqlite_version(*)
+  [1m[36mSQL (0.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.0ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "login" varchar(40), "first_name" varchar(40), "last_name" varchar(40), "email" varchar(40), "crypted_password" varchar(40), "salt" varchar(40), "created_at" datetime, "updated_at" datetime, "expires_at" datetime, "remember_token" varchar(40), "remember_token_expires_at" datetime) 
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("users")[0m
+  [1m[35mSQL (0.6ms)[0m  CREATE UNIQUE INDEX "index_users_on_login" ON "users" ("login")
+  [1m[36mSQL (0.7ms)[0m  [1mCREATE TABLE "dynamic_views" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "type" varchar(255), "name" varchar(255), "format" varchar(255), "handler" varchar(255), "body" text, "created_at" datetime, "updated_at" datetime, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer) [0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "dynamic_view_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "dynamic_view_id" integer, "version" integer, "type" varchar(255), "name" varchar(255), "format" varchar(255), "handler" varchar(255), "body" text, "created_at" datetime, "updated_at" datetime, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer) 
+  [1m[36mSQL (0.7ms)[0m  [1mCREATE TABLE "pages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "name" varchar(255), "title" varchar(255), "path" varchar(255), "template_file_name" varchar(255), "description" text, "keywords" text, "language" varchar(255), "cacheable" boolean DEFAULT 'f', "hidden" boolean DEFAULT 'f', "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "page_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "page_id" integer, "version" integer, "name" varchar(255), "title" varchar(255), "path" varchar(255), "template_file_name" varchar(255), "description" text, "keywords" text, "language" varchar(255), "cacheable" boolean DEFAULT 'f', "hidden" boolean DEFAULT 'f', "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE TABLE "content_type_groups" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.7ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "content_type_groups" ("name", "created_at", "updated_at") VALUES ('Core', '2011-05-17 00:11:09.992598', '2011-05-17 00:11:09.992598')[0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "content_types" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "content_type_group_id" integer, "priority" integer DEFAULT 2, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE TABLE "category_types" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mContentTypeGroup Load (0.3ms)[0m  SELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Categorization' LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_type_groups" ("name", "created_at", "updated_at") VALUES ('Categorization', '2011-05-17 00:11:10.174678', '2011-05-17 00:11:10.174678')[0m
+  [1m[35mSQL (0.3ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('CategoryType', 2, 2, '2011-05-17 00:11:10.176900', '2011-05-17 00:11:10.176900')[0m
+  [1m[35mSQL (0.3ms)[0m  CREATE TABLE "categories" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "category_type_id" integer, "parent_id" integer, "name" varchar(255), "created_at" datetime, "updated_at" datetime) 
+  [1m[36mContentTypeGroup Load (0.3ms)[0m  [1mSELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Categorization' LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('Category', 2, 2, '2011-05-17 00:11:10.192504', '2011-05-17 00:11:10.192504')
+  [1m[36mSQL (0.4ms)[0m  [1mCREATE TABLE "connectors" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "page_id" integer, "page_version" integer, "connectable_id" integer, "connectable_type" varchar(255), "connectable_version" integer, "container" varchar(255), "position" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "html_blocks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "name" varchar(255), "content" varchar(65537), "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.6ms)[0m  [1mCREATE TABLE "html_block_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "html_block_id" integer, "version" integer, "name" varchar(255), "content" varchar(65537), "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mContentTypeGroup Load (0.3ms)[0m  SELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Core' LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('HtmlBlock', 1, 1, '2011-05-17 00:11:10.206900', '2011-05-17 00:11:10.206900')[0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "sections" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "path" varchar(255), "root" boolean DEFAULT 'f', "hidden" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.6ms)[0m  [1mCREATE TABLE "portlets" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "type" varchar(255), "name" varchar(255), "archived" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "portlet_attributes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "portlet_id" integer, "name" varchar(255), "value" text) 
+  [1m[36mContentTypeGroup Load (0.3ms)[0m  [1mSELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Core' LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('Portlet', 1, 1, '2011-05-17 00:11:10.219577', '2011-05-17 00:11:10.219577')
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "redirects" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "from_path" varchar(255), "to_path" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.7ms)[0m  CREATE TABLE "attachments" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "file_path" varchar(255), "file_location" varchar(255), "file_extension" varchar(255), "file_type" varchar(255), "file_size" integer, "created_at" datetime, "updated_at" datetime, "name" varchar(255), "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer) 
+  [1m[36mSQL (0.6ms)[0m  [1mCREATE TABLE "attachment_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "attachment_id" integer, "version" integer, "file_path" varchar(255), "file_location" varchar(255), "file_extension" varchar(255), "file_type" varchar(255), "file_size" integer, "created_at" datetime, "updated_at" datetime, "name" varchar(255), "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer) [0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "file_blocks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "type" varchar(255), "name" varchar(255), "attachment_id" integer, "attachment_version" integer, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.7ms)[0m  [1mCREATE TABLE "file_block_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "file_block_id" integer, "version" integer, "type" varchar(255), "name" varchar(255), "attachment_id" integer, "attachment_version" integer, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mContentTypeGroup Load (0.3ms)[0m  SELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Core' LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('FileBlock', 1, 2, '2011-05-17 00:11:10.246201', '2011-05-17 00:11:10.246201')[0m
+  [1m[35mContentTypeGroup Load (0.3ms)[0m  SELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Core' LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('ImageBlock', 1, 2, '2011-05-17 00:11:10.249910', '2011-05-17 00:11:10.249910')[0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "group_types" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "guest" boolean DEFAULT 'f', "cms_access" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "groups" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "code" varchar(255), "group_type_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "user_group_memberships" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "group_id" integer) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "permissions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "full_name" varchar(255), "description" varchar(255), "for_module" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.4ms)[0m  CREATE TABLE "group_permissions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "group_id" integer, "permission_id" integer) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "group_type_permissions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "group_type_id" integer, "permission_id" integer) [0m
+  [1m[35mSQL (0.4ms)[0m  CREATE TABLE "group_sections" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "group_id" integer, "section_id" integer) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "sites" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "domain" varchar(255), "the_default" boolean, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.4ms)[0m  CREATE TABLE "section_nodes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "section_id" integer, "node_type" varchar(255), "node_id" integer, "position" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.7ms)[0m  [1mCREATE TABLE "links" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "version" integer, "lock_version" integer DEFAULT 0, "name" varchar(255), "url" varchar(255), "new_window" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "created_by_id" integer, "updated_by_id" integer) [0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "link_versions" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "link_id" integer, "version" integer, "name" varchar(255), "url" varchar(255), "new_window" boolean DEFAULT 'f', "created_at" datetime, "updated_at" datetime, "published" boolean DEFAULT 'f', "deleted" boolean DEFAULT 'f', "archived" boolean DEFAULT 'f', "version_comment" varchar(255), "created_by_id" integer, "updated_by_id" integer) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "tags" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mContentTypeGroup Load (0.3ms)[0m  SELECT "content_type_groups".* FROM "content_type_groups" WHERE "content_type_groups"."name" = 'Categorization' LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "content_types" ("name", "content_type_group_id", "priority", "created_at", "updated_at") VALUES ('Tag', 2, 2, '2011-05-17 00:11:10.285424', '2011-05-17 00:11:10.285424')[0m
+  [1m[35mSQL (0.4ms)[0m  CREATE TABLE "taggings" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "tag_id" integer, "taggable_id" integer, "taggable_type" varchar(255), "taggable_version" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.5ms)[0m  [1mCREATE TABLE "email_messages" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "sender" varchar(255), "recipients" text, "subject" text, "cc" text, "bcc" text, "body" text, "content_type" varchar(255), "delivered_at" datetime, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.6ms)[0m  CREATE TABLE "tasks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "assigned_by_id" integer, "assigned_to_id" integer, "page_id" integer, "comment" text, "due_date" date, "completed_at" datetime, "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.6ms)[0m  [1mCREATE TABLE "page_routes" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "pattern" varchar(255), "page_id" integer, "code" text, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35mSQL (0.5ms)[0m  CREATE TABLE "page_route_options" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "page_route_id" integer, "type" varchar(255), "name" varchar(255), "value" varchar(255), "created_at" datetime, "updated_at" datetime) 
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20080815014337')[0m
+Migrating to Browsercms305 (20091109175123)
+  [1m[35mSQL (0.7ms)[0m  ALTER TABLE "users" ADD "reset_token" varchar(255)
+  [1m[36mSQL (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20091109175123')[0m
+Migrating to Browsercms330 (20100705083859)
+  [1m[35mSQL (2.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND (path LIKE '/%/')[0m
+  [1m[35mPage::Version Load (0.4ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE (path LIKE '/%/')
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20100705083859')[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations"[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("attachment_versions")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("attachments")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("categories")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("category_types")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("connectors")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("content_type_groups")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("content_types")[0m
+  [1m[35mSQL (0.5ms)[0m  PRAGMA index_list("dynamic_view_versions")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("dynamic_views")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("email_messages")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("file_block_versions")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("file_blocks")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("group_permissions")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("group_sections")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("group_type_permissions")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("group_types")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("groups")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("html_block_versions")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("html_blocks")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("link_versions")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("links")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("page_route_options")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("page_routes")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("page_versions")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("pages")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("permissions")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("portlet_attributes")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("portlets")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("redirects")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("section_nodes")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("sections")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("sites")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("taggings")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("tags")
+  [1m[36mSQL (0.1ms)[0m  [1mPRAGMA index_list("tasks")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_list("user_group_memberships")
+  [1m[36mSQL (0.2ms)[0m  [1mPRAGMA index_list("users")[0m
+  [1m[35mSQL (0.1ms)[0m  PRAGMA index_info('index_users_on_login')
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations"
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "users" WHERE (LOWER("users"."login") = LOWER('cmsadmin')) LIMIT 1[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "users" ("login", "first_name", "last_name", "email", "crypted_password", "salt", "created_at", "updated_at", "expires_at", "remember_token", "remember_token_expires_at", "reset_token") VALUES ('cmsadmin', 'CMS', 'Administrator', 'cmsadmin@example.com', 'ec1af0dfb136654fde8418c4d3cb7983fbb674a0', '647c75b16c23f1b7328e0662d78b741dc739bf6a', '2011-05-17 00:11:11.592246', '2011-05-17 00:11:11.592246', NULL, NULL, NULL, NULL)[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT 1 FROM "permissions" WHERE ("permissions"."name" = 'administrate') LIMIT 1
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "permissions" ("name", "full_name", "description", "for_module", "created_at", "updated_at") VALUES ('administrate', 'Administer CMS', 'Allows users to administer the CMS, including adding users and groups.', NULL, '2011-05-17 00:11:11.817019', '2011-05-17 00:11:11.817019')
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "permissions" WHERE ("permissions"."name" = 'edit_content') LIMIT 1[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "permissions" ("name", "full_name", "description", "for_module", "created_at", "updated_at") VALUES ('edit_content', 'Edit Content', 'Allows users to Add, Edit and Delete both Pages and Blocks. Can Save (but not Publish) and Assign them as well.', NULL, '2011-05-17 00:11:11.934473', '2011-05-17 00:11:11.934473')
+  [1m[36mSQL (0.5ms)[0m  [1mSELECT 1 FROM "permissions" WHERE ("permissions"."name" = 'publish_content') LIMIT 1[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "permissions" ("name", "full_name", "description", "for_module", "created_at", "updated_at") VALUES ('publish_content', 'Publish Content', 'Allows users to Save and Publish, Hide and Archive both Pages and Blocks.', NULL, '2011-05-17 00:11:12.038059', '2011-05-17 00:11:12.038059')
+  [1m[36mSQL (1.4ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.5ms)[0m  INSERT INTO "group_types" ("name", "guest", "cms_access", "created_at", "updated_at") VALUES ('Guest', 't', 'f', '2011-05-17 00:11:12.179677', '2011-05-17 00:11:12.179677')
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "group_types" ("name", "guest", "cms_access", "created_at", "updated_at") VALUES ('Registered Public User', 'f', 'f', '2011-05-17 00:11:12.297935', '2011-05-17 00:11:12.297935')[0m
+  [1m[35mAREL (0.7ms)[0m  INSERT INTO "group_types" ("name", "guest", "cms_access", "created_at", "updated_at") VALUES ('CMS User', 'f', 't', '2011-05-17 00:11:12.402265', '2011-05-17 00:11:12.402265')
+  [1m[36mGroupType Load (0.4ms)[0m  [1mSELECT "group_types".* FROM "group_types" WHERE "group_types"."id" = 3 LIMIT 1[0m
+  [1m[35mPermission Load (0.4ms)[0m  SELECT "permissions".* FROM "permissions" WHERE "permissions"."id" = 2 LIMIT 1
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "group_type_permissions" ("group_type_id", "permission_id") VALUES (3, 2)
+  [1m[36mGroupType Load (0.4ms)[0m  [1mSELECT "group_types".* FROM "group_types" WHERE "group_types"."id" = 3 LIMIT 1[0m
+  [1m[35mPermission Load (0.7ms)[0m  SELECT "permissions".* FROM "permissions" WHERE "permissions"."id" = 3 LIMIT 1
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "group_type_permissions" ("group_type_id", "permission_id") VALUES (3, 3)[0m
+  [1m[35mGroupType Load (0.4ms)[0m  SELECT "group_types".* FROM "group_types" WHERE "group_types"."id" = 1 LIMIT 1
+  [1m[36mSQL (1.1ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.5ms)[0m  INSERT INTO "groups" ("name", "code", "group_type_id", "created_at", "updated_at") VALUES ('Guest', 'guest', 1, '2011-05-17 00:11:12.906517', '2011-05-17 00:11:12.906517')
+  [1m[36mGroupType Load (0.4ms)[0m  [1mSELECT "group_types".* FROM "group_types" WHERE "group_types"."id" = 3 LIMIT 1[0m
+  [1m[35mAREL (0.5ms)[0m  INSERT INTO "groups" ("name", "code", "group_type_id", "created_at", "updated_at") VALUES ('Cms Administrators', 'cms-admin', 3, '2011-05-17 00:11:13.022353', '2011-05-17 00:11:13.022353')
+  [1m[36mGroupType Load (0.4ms)[0m  [1mSELECT "group_types".* FROM "group_types" WHERE "group_types"."id" = 3 LIMIT 1[0m
+  [1m[35mAREL (0.5ms)[0m  INSERT INTO "groups" ("name", "code", "group_type_id", "created_at", "updated_at") VALUES ('Content Editors', 'content-editor', 3, '2011-05-17 00:11:13.126021', '2011-05-17 00:11:13.126021')
+  [1m[36mUser Load (1.4ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+  [1m[35mGroup Load (0.3ms)[0m  SELECT "groups".* FROM "groups" WHERE "groups"."id" = 2 LIMIT 1
+  [1m[36mSQL (1.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "user_group_memberships" ("user_id", "group_id") VALUES (1, 2)
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+  [1m[35mGroup Load (0.4ms)[0m  SELECT "groups".* FROM "groups" WHERE "groups"."id" = 3 LIMIT 1
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "user_group_memberships" ("user_id", "group_id") VALUES (1, 3)[0m
+  [1m[35mGroup Load (0.4ms)[0m  SELECT "groups".* FROM "groups" WHERE "groups"."id" = 2 LIMIT 1
+  [1m[36mPermission Load (0.6ms)[0m  [1mSELECT "permissions".* FROM "permissions" WHERE "permissions"."id" = 1 LIMIT 1[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT 1 FROM "group_permissions" WHERE "group_permissions"."group_id" = 2 AND ("group_permissions"."permission_id" = 1) LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "group_permissions" ("group_id", "permission_id") VALUES (2, 1)
+  [1m[36mGroup Load (0.4ms)[0m  [1mSELECT "groups".* FROM "groups" WHERE "groups"."id" = 3 LIMIT 1[0m
+  [1m[35mPermission Load (0.7ms)[0m  SELECT "permissions".* FROM "permissions" WHERE "permissions"."id" = 2 LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "group_permissions" WHERE "group_permissions"."group_id" = 3 AND ("group_permissions"."permission_id" = 2) LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "group_permissions" ("group_id", "permission_id") VALUES (3, 2)
+  [1m[36mGroup Load (0.4ms)[0m  [1mSELECT "groups".* FROM "groups" WHERE "groups"."id" = 3 LIMIT 1[0m
+  [1m[35mPermission Load (0.6ms)[0m  SELECT "permissions".* FROM "permissions" WHERE "permissions"."id" = 3 LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT 1 FROM "group_permissions" WHERE "group_permissions"."group_id" = 3 AND ("group_permissions"."permission_id" = 3) LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "group_permissions" ("group_id", "permission_id") VALUES (3, 3)
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "sites" WHERE ("sites"."domain" = 'example.com') LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "sites" ("name", "domain", "the_default", "created_at", "updated_at") VALUES ('Default', 'example.com', NULL, '2011-05-17 00:11:13.926096', '2011-05-17 00:11:13.926096')[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT COUNT(*) FROM "sites" WHERE "sites"."the_default" = 't'
+  [1m[36mAREL (0.2ms)[0m  [1mUPDATE "sites" SET the_default = 'f'[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "sites" SET "name" = 'Default', "domain" = 'example.com', "created_at" = '2011-05-17 00:11:13.926096', "updated_at" = '2011-05-17 00:11:13.926096', "the_default" = 't' WHERE "sites"."id" = 1
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT COUNT(*) FROM "sites" WHERE "sites"."the_default" = 't'[0m
+  [1m[35mSQL (1.6ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.6ms)[0m  [1mINSERT INTO "sections" ("name", "path", "root", "hidden", "created_at", "updated_at") VALUES ('My Site', '/', 't', 'f', '2011-05-17 00:11:14.184533', '2011-05-17 00:11:14.184533')[0m
+  [1m[35mSection Load (0.4ms)[0m  SELECT "sections".* FROM "sections" WHERE "sections"."id" = 1 LIMIT 1
+  [1m[36mAREL (0.4ms)[0m  [1mINSERT INTO "sections" ("name", "path", "root", "hidden", "created_at", "updated_at") VALUES ('system', '/system', 'f', 't', '2011-05-17 00:11:14.388920', '2011-05-17 00:11:14.388920')[0m
+  [1m[35mSectionNode Load (0.3ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE (section_id = 1) ORDER BY position DESC LIMIT 1
+  [1m[36mSQL (0.8ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "section_nodes" ("section_id", "node_type", "node_id", "position", "created_at", "updated_at") VALUES (1, 'Section', 2, 1, '2011-05-17 00:11:14.393158', '2011-05-17 00:11:14.393158')
+  [1m[36mGroup Load (0.5ms)[0m  [1mSELECT "groups".* FROM "groups"[0m
+  [1m[35mSection Load (0.4ms)[0m  SELECT "sections".* FROM "sections"
+  [1m[36mSection Load (0.4ms)[0m  [1mSELECT "sections".* FROM "sections" INNER JOIN "group_sections" ON "sections".id = "group_sections".section_id WHERE (("group_sections".group_id = 1))[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.7ms)[0m  [1mINSERT INTO "group_sections" ("group_id", "section_id") VALUES (1, 1)[0m
+  [1m[35mAREL (0.1ms)[0m  INSERT INTO "group_sections" ("group_id", "section_id") VALUES (1, 2)
+  [1m[36mSection Load (0.5ms)[0m  [1mSELECT "sections".* FROM "sections"[0m
+  [1m[35mSection Load (0.3ms)[0m  SELECT "sections".* FROM "sections" INNER JOIN "group_sections" ON "sections".id = "group_sections".section_id WHERE (("group_sections".group_id = 2))
+  [1m[36mAREL (0.4ms)[0m  [1mINSERT INTO "group_sections" ("group_id", "section_id") VALUES (2, 1)[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "group_sections" ("group_id", "section_id") VALUES (2, 2)
+  [1m[36mSection Load (0.4ms)[0m  [1mSELECT "sections".* FROM "sections"[0m
+  [1m[35mSection Load (0.3ms)[0m  SELECT "sections".* FROM "sections" INNER JOIN "group_sections" ON "sections".id = "group_sections".section_id WHERE (("group_sections".group_id = 3))
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "group_sections" ("group_id", "section_id") VALUES (3, 1)[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "group_sections" ("group_id", "section_id") VALUES (3, 2)
+  [1m[36mSection Load (0.4ms)[0m  [1mSELECT "sections".* FROM "sections" WHERE "sections"."id" = 1 LIMIT 1[0m
+  [1m[35mSQL (1.5ms)[0m  SELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/') LIMIT 1
+Page#create_or_update called. Published = false
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>false, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Home", "path"=>"/", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+Copying connectors from Page  v0 to v1.
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mConnector Load (0.3ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 0 AND ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>false, "keywords"=>nil, "language"=>nil, "name"=>"Home", "page_id"=>nil, "path"=>"/", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[36mAREL (3.5ms)[0m  [1mINSERT INTO "pages" ("version", "lock_version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Home', NULL, '/', 'default.html.erb', NULL, NULL, NULL, 't', 'f', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:15.177637', '2011-05-17 00:11:15.177637')[0m
+  [1m[35mPage::Version Load (0.3ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = NULL)
+  [1m[36mSQL (0.9ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 1, 'Home', NULL, '/', 'default.html.erb', NULL, NULL, NULL, 't', 'f', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:15.337233', '2011-05-17 00:11:15.337233')
+  [1m[36mConnector Load (0.2ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position[0m
+  [1m[35mSectionNode Load (0.4ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE (section_id = 1) ORDER BY position DESC LIMIT 1
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "section_nodes" ("section_id", "node_type", "node_id", "position", "created_at", "updated_at") VALUES (1, 'Page', 1, 2, '2011-05-17 00:11:15.373860', '2011-05-17 00:11:15.373860')[0m
+Page#publish_if_needed. publish? = 'false'
+  [1m[35mSection Load (0.4ms)[0m  SELECT "sections".* FROM "sections" WHERE "sections"."id" = 2 LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/not_found') LIMIT 1[0m
+Page#create_or_update called. Published = true
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Page Not Found", "path"=>"/system/not_found", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+Copying connectors from Page  v0 to v1.
+  [1m[35mConnector Load (0.3ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 0 AND ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Page Not Found", "page_id"=>nil, "path"=>"/system/not_found", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "pages" ("version", "lock_version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Page Not Found', NULL, '/system/not_found', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:15.511538', '2011-05-17 00:11:15.511538')[0m
+  [1m[35mPage::Version Load (0.2ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = NULL)
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (2, 1, 'Page Not Found', NULL, '/system/not_found', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:15.514393', '2011-05-17 00:11:15.514393')[0m
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+  [1m[36mSectionNode Load (0.2ms)[0m  [1mSELECT "section_nodes".* FROM "section_nodes" WHERE (section_id = 2) ORDER BY position DESC LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "section_nodes" ("section_id", "node_type", "node_id", "position", "created_at", "updated_at") VALUES (2, 'Page', 2, 1, '2011-05-17 00:11:15.518924', '2011-05-17 00:11:15.518924')
+Page#publish_if_needed. publish? = 'true'
+  [1m[36mPage::Version Load (1.7ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 2) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  UPDATE "page_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:15.524079' WHERE "page_versions"."id" = 2
+  [1m[36mAREL (0.2ms)[0m  [1mUPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Page Not Found', "path" = '/system/not_found', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 1 WHERE "pages"."id" = 2[0m
+  [1m[35mPage Load (1.7ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = 2 LIMIT 1
+  [1m[36mConnector Load (0.6ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 2) ORDER BY connectors.container, connectors.position, position[0m
+  [1m[35mSection Load (0.6ms)[0m  SELECT "sections".* FROM "sections" WHERE "sections"."id" = 2 LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/access_denied') LIMIT 1[0m
+Page#create_or_update called. Published = true
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Access Denied", "path"=>"/system/access_denied", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+Copying connectors from Page  v0 to v1.
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 0 AND ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Access Denied", "page_id"=>nil, "path"=>"/system/access_denied", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "pages" ("version", "lock_version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Access Denied', NULL, '/system/access_denied', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:15.646026', '2011-05-17 00:11:15.646026')[0m
+  [1m[35mPage::Version Load (0.4ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = NULL)
+  [1m[36mAREL (0.4ms)[0m  [1mINSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (3, 1, 'Access Denied', NULL, '/system/access_denied', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:15.649803', '2011-05-17 00:11:15.649803')[0m
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+  [1m[36mSectionNode Load (0.4ms)[0m  [1mSELECT "section_nodes".* FROM "section_nodes" WHERE (section_id = 2) ORDER BY position DESC LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "section_nodes" ("section_id", "node_type", "node_id", "position", "created_at", "updated_at") VALUES (2, 'Page', 3, 2, '2011-05-17 00:11:15.659373', '2011-05-17 00:11:15.659373')
+Page#publish_if_needed. publish? = 'true'
+  [1m[36mPage::Version Load (1.7ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 3) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "page_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:15.667484' WHERE "page_versions"."id" = 3
+  [1m[36mAREL (0.3ms)[0m  [1mUPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Access Denied', "path" = '/system/access_denied', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 1 WHERE "pages"."id" = 3[0m
+  [1m[35mPage Load (1.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = 3 LIMIT 1
+  [1m[36mConnector Load (0.3ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 3) ORDER BY connectors.container, connectors.position, position[0m
+  [1m[35mSection Load (0.5ms)[0m  SELECT "sections".* FROM "sections" WHERE "sections"."id" = 2 LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/server_error') LIMIT 1[0m
+Page#create_or_update called. Published = true
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Server Error", "path"=>"/system/server_error", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+Copying connectors from Page  v0 to v1.
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 0 AND ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Server Error", "page_id"=>nil, "path"=>"/system/server_error", "published"=>false, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "pages" ("version", "lock_version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Server Error', NULL, '/system/server_error', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:15.788265', '2011-05-17 00:11:15.788265')[0m
+  [1m[35mPage::Version Load (0.2ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = NULL)
+  [1m[36mAREL (0.2ms)[0m  [1mINSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (4, 1, 'Server Error', NULL, '/system/server_error', 'default.html.erb', NULL, NULL, NULL, 't', 't', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:15.791116', '2011-05-17 00:11:15.791116')[0m
+  [1m[35mConnector Load (0.4ms)[0m  SELECT "connectors".* FROM "connectors" WHERE ("connectors".page_id = NULL) ORDER BY connectors.container, connectors.position
+  [1m[36mSectionNode Load (0.3ms)[0m  [1mSELECT "section_nodes".* FROM "section_nodes" WHERE (section_id = 2) ORDER BY position DESC LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "section_nodes" ("section_id", "node_type", "node_id", "position", "created_at", "updated_at") VALUES (2, 'Page', 4, 3, '2011-05-17 00:11:15.799457', '2011-05-17 00:11:15.799457')
+Page#publish_if_needed. publish? = 'true'
+  [1m[36mPage::Version Load (1.8ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 4) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "page_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:15.805453' WHERE "page_versions"."id" = 4
+  [1m[36mAREL (0.2ms)[0m  [1mUPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Server Error', "path" = '/system/server_error', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 1 WHERE "pages"."id" = 4[0m
+  [1m[35mPage Load (1.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = 4 LIMIT 1
+  [1m[36mConnector Load (0.4ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 4) ORDER BY connectors.container, connectors.position, position[0m
+HtmlBlock#create_or_update called. Published = true
+Saving HtmlBlock {"archived"=>false, "content"=>"<p>The page you tried to access does not exist on this server.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "lock_version"=>0, "name"=>"Page Not Found", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+New version of HtmlBlock::Version is {"archived"=>false, "content"=>"<p>The page you tried to access does not exist on this server.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "html_block_id"=>nil, "name"=>"Page Not Found", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "html_blocks" ("version", "lock_version", "name", "content", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Page Not Found', '<p>The page you tried to access does not exist on this server.</p>', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:16.084388', '2011-05-17 00:11:16.084388')[0m
+  [1m[35mHtmlBlock::Version Load (0.3ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = NULL)
+  [1m[36mSQL (0.9ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "html_block_versions" ("html_block_id", "version", "name", "content", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 1, 'Page Not Found', '<p>The page you tried to access does not exist on this server.</p>', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:16.175305', '2011-05-17 00:11:16.175305')
+  [1m[36mHtmlBlock::Version Load (0.4ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 1) ORDER BY version desc LIMIT 1[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.8ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mPage Load (0.4ms)[0m  SELECT "pages"."id" AS t0_r0, "pages"."version" AS t0_r1, "pages"."lock_version" AS t0_r2, "pages"."name" AS t0_r3, "pages"."title" AS t0_r4, "pages"."path" AS t0_r5, "pages"."template_file_name" AS t0_r6, "pages"."description" AS t0_r7, "pages"."keywords" AS t0_r8, "pages"."language" AS t0_r9, "pages"."cacheable" AS t0_r10, "pages"."hidden" AS t0_r11, "pages"."published" AS t0_r12, "pages"."deleted" AS t0_r13, "pages"."archived" AS t0_r14, "pages"."created_by_id" AS t0_r15, "pages"."updated_by_id" AS t0_r16, "pages"."created_at" AS t0_r17, "pages"."updated_at" AS t0_r18, "connectors"."id" AS t1_r0, "connectors"."page_id" AS t1_r1, "connectors"."page_version" AS t1_r2, "connectors"."connectable_id" AS t1_r3, "connectors"."connectable_type" AS t1_r4, "connectors"."connectable_version" AS t1_r5, "connectors"."container" AS t1_r6, "connectors"."position" AS t1_r7, "connectors"."created_at" AS t1_r8, "connectors"."updated_at" AS t1_r9 FROM "pages" LEFT OUTER JOIN "connectors" ON "connectors"."page_id" = "pages"."id" WHERE "pages"."deleted" = 'f' AND (connectors.connectable_id = 1 and connectors.connectable_type = 'HtmlBlock' and connectors.connectable_version = 0)
+  [1m[36mTag Load (0.4ms)[0m  [1mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 1) AND ("taggings".taggable_type = 'HtmlBlock')) ORDER BY tags.name[0m
+  [1m[35mTagging Load (0.2ms)[0m  SELECT "taggings".* FROM "taggings" WHERE ("taggings".taggable_id = 1 AND "taggings".taggable_type = 'HtmlBlock')
+HtmlBlock#publish_if_needed. publish? = 'true'
+  [1m[36mHtmlBlock::Version Load (0.4ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 1) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "html_block_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:16.337866' WHERE "html_block_versions"."id" = 1
+  [1m[36mAREL (0.2ms)[0m  [1mUPDATE "html_blocks" SET "archived" = 'f', "content" = '<p>The page you tried to access does not exist on this server.</p>', "deleted" = 'f', "name" = 'Page Not Found', "published" = 't', "version" = 1 WHERE "html_blocks"."id" = 1[0m
+  [1m[35mPage Load (1.6ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 2 LIMIT 1
+  [1m[36mHtmlBlock Load (0.5ms)[0m  [1mSELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 1 LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/not_found') AND ("pages".id <> 2) LIMIT 1
+Page#create_or_update called. Published = false
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "created_by_id"=>1, "deleted"=>false, "description"=>nil, "hidden"=>true, "id"=>2, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Page Not Found", "path"=>"/system/not_found", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "updated_by_id"=>1, "version"=>1}
+Page#update
+  [1m[36mPage::Version Load (2.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 2) ORDER BY version desc LIMIT 1[0m
+  [1m[35mPage::Version Load (1.1ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 2) ORDER BY version desc LIMIT 1
+Copying connectors from Page 2 v1 to v2.
+  [1m[36mConnector Load (0.2ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 2) ORDER BY connectors.container, connectors.position[0m
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Page Not Found", "page_id"=>2, "path"=>"/system/not_found", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>2, "version_comment"=>"Html Block 'Page Not Found' was added to the 'main' container"}
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (2, 2, 'Page Not Found', NULL, '/system/not_found', 'default.html.erb', NULL, NULL, NULL, 't', 't', 't', 'f', 'f', 'Html Block ''Page Not Found'' was added to the ''main'' container', 1, 1, '2011-05-17 00:11:16.451363', '2011-05-17 00:11:16.451363')
+Page#publish_if_needed. publish? = 'false'
+  [1m[36mPage::Version Load (1.7ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 2) ORDER BY version desc LIMIT 1[0m
+  [1m[35mConnector Load (0.4ms)[0m  SELECT "connectors".* FROM "connectors" WHERE (connectors.page_id = 2 and connectors.page_version = 2 and connectors.container = 'main') ORDER BY position DESC LIMIT 1
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "connectors" ("page_id", "page_version", "connectable_id", "connectable_type", "connectable_version", "container", "position", "created_at", "updated_at") VALUES (2, 2, 1, 'HtmlBlock', 1, 'main', 1, '2011-05-17 00:11:16.476666', '2011-05-17 00:11:16.476666')[0m
+  [1m[35mPage Load (1.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 2 LIMIT 1
+  [1m[36mPage::Version Load (1.6ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 2) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.4ms)[0m  UPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Page Not Found', "path" = '/system/not_found', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 2 WHERE "pages"."id" = 2
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = 2 LIMIT 1[0m
+  [1m[35mConnector Load (0.4ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 2 AND ("connectors".page_id = 2) ORDER BY connectors.container, connectors.position, position
+  [1m[36mHtmlBlock Load (0.3ms)[0m  [1mSELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 1 LIMIT 1[0m
+  [1m[35mHtmlBlock::Version Load (0.4ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 1) ORDER BY version desc LIMIT 1
+HtmlBlock#create_or_update called. Published = true
+Saving HtmlBlock {"archived"=>false, "content"=>"<p>You have tried to reach a resource or page which you do not have permission to view.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "lock_version"=>0, "name"=>"Access Denied", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+New version of HtmlBlock::Version is {"archived"=>false, "content"=>"<p>You have tried to reach a resource or page which you do not have permission to view.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "html_block_id"=>nil, "name"=>"Access Denied", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[36mAREL (0.5ms)[0m  [1mINSERT INTO "html_blocks" ("version", "lock_version", "name", "content", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Access Denied', '<p>You have tried to reach a resource or page which you do not have permission to view.</p>', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:16.713106', '2011-05-17 00:11:16.713106')[0m
+  [1m[35mHtmlBlock::Version Load (0.3ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = NULL)
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "html_block_versions" ("html_block_id", "version", "name", "content", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (2, 1, 'Access Denied', '<p>You have tried to reach a resource or page which you do not have permission to view.</p>', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:16.719733', '2011-05-17 00:11:16.719733')[0m
+  [1m[35mHtmlBlock::Version Load (0.9ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 2) ORDER BY version desc LIMIT 1
+  [1m[36mSQL (1.2ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages"."id" AS t0_r0, "pages"."version" AS t0_r1, "pages"."lock_version" AS t0_r2, "pages"."name" AS t0_r3, "pages"."title" AS t0_r4, "pages"."path" AS t0_r5, "pages"."template_file_name" AS t0_r6, "pages"."description" AS t0_r7, "pages"."keywords" AS t0_r8, "pages"."language" AS t0_r9, "pages"."cacheable" AS t0_r10, "pages"."hidden" AS t0_r11, "pages"."published" AS t0_r12, "pages"."deleted" AS t0_r13, "pages"."archived" AS t0_r14, "pages"."created_by_id" AS t0_r15, "pages"."updated_by_id" AS t0_r16, "pages"."created_at" AS t0_r17, "pages"."updated_at" AS t0_r18, "connectors"."id" AS t1_r0, "connectors"."page_id" AS t1_r1, "connectors"."page_version" AS t1_r2, "connectors"."connectable_id" AS t1_r3, "connectors"."connectable_type" AS t1_r4, "connectors"."connectable_version" AS t1_r5, "connectors"."container" AS t1_r6, "connectors"."position" AS t1_r7, "connectors"."created_at" AS t1_r8, "connectors"."updated_at" AS t1_r9 FROM "pages" LEFT OUTER JOIN "connectors" ON "connectors"."page_id" = "pages"."id" WHERE "pages"."deleted" = 'f' AND (connectors.connectable_id = 2 and connectors.connectable_type = 'HtmlBlock' and connectors.connectable_version = 0)[0m
+  [1m[35mTag Load (0.2ms)[0m  SELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 2) AND ("taggings".taggable_type = 'HtmlBlock')) ORDER BY tags.name
+  [1m[36mTagging Load (0.2ms)[0m  [1mSELECT "taggings".* FROM "taggings" WHERE ("taggings".taggable_id = 2 AND "taggings".taggable_type = 'HtmlBlock')[0m
+HtmlBlock#publish_if_needed. publish? = 'true'
+  [1m[35mHtmlBlock::Version Load (0.3ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 2) ORDER BY version desc LIMIT 1
+  [1m[36mAREL (0.3ms)[0m  [1mUPDATE "html_block_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:16.741876' WHERE "html_block_versions"."id" = 2[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "html_blocks" SET "archived" = 'f', "content" = '<p>You have tried to reach a resource or page which you do not have permission to view.</p>', "deleted" = 'f', "name" = 'Access Denied', "published" = 't', "version" = 1 WHERE "html_blocks"."id" = 2
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 3 LIMIT 1[0m
+  [1m[35mHtmlBlock Load (0.4ms)[0m  SELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 2 LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/access_denied') AND ("pages".id <> 3) LIMIT 1[0m
+Page#create_or_update called. Published = false
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "created_by_id"=>1, "deleted"=>false, "description"=>nil, "hidden"=>true, "id"=>3, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Access Denied", "path"=>"/system/access_denied", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "updated_by_id"=>1, "version"=>1}
+Page#update
+  [1m[35mPage::Version Load (1.8ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 3) ORDER BY version desc LIMIT 1
+  [1m[36mPage::Version Load (2.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 3) ORDER BY version desc LIMIT 1[0m
+Copying connectors from Page 3 v1 to v2.
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 3) ORDER BY connectors.container, connectors.position
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Access Denied", "page_id"=>3, "path"=>"/system/access_denied", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>2, "version_comment"=>"Html Block 'Access Denied' was added to the 'main' container"}
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (3, 2, 'Access Denied', NULL, '/system/access_denied', 'default.html.erb', NULL, NULL, NULL, 't', 't', 't', 'f', 'f', 'Html Block ''Access Denied'' was added to the ''main'' container', 1, 1, '2011-05-17 00:11:16.867525', '2011-05-17 00:11:16.867525')[0m
+Page#publish_if_needed. publish? = 'false'
+  [1m[35mPage::Version Load (0.8ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 3) ORDER BY version desc LIMIT 1
+  [1m[36mConnector Load (0.2ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE (connectors.page_id = 3 and connectors.page_version = 2 and connectors.container = 'main') ORDER BY position DESC LIMIT 1[0m
+  [1m[35mAREL (0.3ms)[0m  INSERT INTO "connectors" ("page_id", "page_version", "connectable_id", "connectable_type", "connectable_version", "container", "position", "created_at", "updated_at") VALUES (3, 2, 2, 'HtmlBlock', 1, 'main', 1, '2011-05-17 00:11:16.873277', '2011-05-17 00:11:16.873277')
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 3 LIMIT 1[0m
+  [1m[35mPage::Version Load (1.5ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 3) ORDER BY version desc LIMIT 1
+  [1m[36mAREL (0.5ms)[0m  [1mUPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Access Denied', "path" = '/system/access_denied', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 2 WHERE "pages"."id" = 3[0m
+  [1m[35mPage Load (1.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = 3 LIMIT 1
+  [1m[36mConnector Load (0.4ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 2 AND ("connectors".page_id = 3) ORDER BY connectors.container, connectors.position, position[0m
+  [1m[35mHtmlBlock Load (0.4ms)[0m  SELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 2 LIMIT 1
+  [1m[36mHtmlBlock::Version Load (1.6ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 2) ORDER BY version desc LIMIT 1[0m
+HtmlBlock#create_or_update called. Published = true
+Saving HtmlBlock {"archived"=>false, "content"=>"<p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "lock_version"=>0, "name"=>"Server Error", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1}
+New version of HtmlBlock::Version is {"archived"=>false, "content"=>"<p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>", "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "html_block_id"=>nil, "name"=>"Server Error", "published"=>false, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>1, "version_comment"=>"Created"}
+  [1m[35mAREL (0.6ms)[0m  INSERT INTO "html_blocks" ("version", "lock_version", "name", "content", "published", "deleted", "archived", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (1, 0, 'Server Error', '<p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>', 'f', 'f', 'f', 1, 1, '2011-05-17 00:11:17.112215', '2011-05-17 00:11:17.112215')
+  [1m[36mHtmlBlock::Version Load (0.4ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = NULL)[0m
+  [1m[35mAREL (0.2ms)[0m  INSERT INTO "html_block_versions" ("html_block_id", "version", "name", "content", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (3, 1, 'Server Error', '<p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>', 'f', 'f', 'f', 'Created', 1, 1, '2011-05-17 00:11:17.117690', '2011-05-17 00:11:17.117690')
+  [1m[36mHtmlBlock::Version Load (0.3ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 3) ORDER BY version desc LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mSQL (0.5ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mPage Load (0.5ms)[0m  SELECT "pages"."id" AS t0_r0, "pages"."version" AS t0_r1, "pages"."lock_version" AS t0_r2, "pages"."name" AS t0_r3, "pages"."title" AS t0_r4, "pages"."path" AS t0_r5, "pages"."template_file_name" AS t0_r6, "pages"."description" AS t0_r7, "pages"."keywords" AS t0_r8, "pages"."language" AS t0_r9, "pages"."cacheable" AS t0_r10, "pages"."hidden" AS t0_r11, "pages"."published" AS t0_r12, "pages"."deleted" AS t0_r13, "pages"."archived" AS t0_r14, "pages"."created_by_id" AS t0_r15, "pages"."updated_by_id" AS t0_r16, "pages"."created_at" AS t0_r17, "pages"."updated_at" AS t0_r18, "connectors"."id" AS t1_r0, "connectors"."page_id" AS t1_r1, "connectors"."page_version" AS t1_r2, "connectors"."connectable_id" AS t1_r3, "connectors"."connectable_type" AS t1_r4, "connectors"."connectable_version" AS t1_r5, "connectors"."container" AS t1_r6, "connectors"."position" AS t1_r7, "connectors"."created_at" AS t1_r8, "connectors"."updated_at" AS t1_r9 FROM "pages" LEFT OUTER JOIN "connectors" ON "connectors"."page_id" = "pages"."id" WHERE "pages"."deleted" = 'f' AND (connectors.connectable_id = 3 and connectors.connectable_type = 'HtmlBlock' and connectors.connectable_version = 0)
+  [1m[36mTag Load (0.2ms)[0m  [1mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags".id = "taggings".tag_id WHERE (("taggings".taggable_id = 3) AND ("taggings".taggable_type = 'HtmlBlock')) ORDER BY tags.name[0m
+  [1m[35mTagging Load (0.1ms)[0m  SELECT "taggings".* FROM "taggings" WHERE ("taggings".taggable_id = 3 AND "taggings".taggable_type = 'HtmlBlock')
+HtmlBlock#publish_if_needed. publish? = 'true'
+  [1m[36mHtmlBlock::Version Load (0.3ms)[0m  [1mSELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 3) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "html_block_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:17.131068' WHERE "html_block_versions"."id" = 3
+  [1m[36mAREL (0.2ms)[0m  [1mUPDATE "html_blocks" SET "archived" = 'f', "content" = '<p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>', "deleted" = 'f', "name" = 'Server Error', "published" = 't', "version" = 1 WHERE "html_blocks"."id" = 3[0m
+  [1m[35mPage Load (1.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 4 LIMIT 1
+  [1m[36mHtmlBlock Load (0.3ms)[0m  [1mSELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 3 LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT 1 FROM "pages" WHERE "pages"."deleted" = 'f' AND ("pages"."path" = '/system/server_error') AND ("pages".id <> 4) LIMIT 1
+Page#create_or_update called. Published = false
+Saving Page {"archived"=>false, "cacheable"=>true, "created_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "created_by_id"=>1, "deleted"=>false, "description"=>nil, "hidden"=>true, "id"=>4, "keywords"=>nil, "language"=>nil, "lock_version"=>0, "name"=>"Server Error", "path"=>"/system/server_error", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>Tue, 17 May 2011 00:11:15 UTC +00:00, "updated_by_id"=>1, "version"=>1}
+Page#update
+  [1m[36mPage::Version Load (1.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 4) ORDER BY version desc LIMIT 1[0m
+  [1m[35mPage::Version Load (1.2ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 4) ORDER BY version desc LIMIT 1
+Copying connectors from Page 4 v1 to v2.
+  [1m[36mConnector Load (0.2ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 4) ORDER BY connectors.container, connectors.position[0m
+Found connectors []
+New version of Page::Version is {"archived"=>false, "cacheable"=>true, "created_at"=>nil, "created_by_id"=>nil, "deleted"=>false, "description"=>nil, "hidden"=>true, "keywords"=>nil, "language"=>nil, "name"=>"Server Error", "page_id"=>4, "path"=>"/system/server_error", "published"=>true, "template_file_name"=>"default.html.erb", "title"=>nil, "updated_at"=>nil, "updated_by_id"=>nil, "version"=>2, "version_comment"=>"Html Block 'Server Error' was added to the 'main' container"}
+  [1m[35mAREL (0.4ms)[0m  INSERT INTO "page_versions" ("page_id", "version", "name", "title", "path", "template_file_name", "description", "keywords", "language", "cacheable", "hidden", "published", "deleted", "archived", "version_comment", "created_by_id", "updated_by_id", "created_at", "updated_at") VALUES (4, 2, 'Server Error', NULL, '/system/server_error', 'default.html.erb', NULL, NULL, NULL, 't', 't', 't', 'f', 'f', 'Html Block ''Server Error'' was added to the ''main'' container', 1, 1, '2011-05-17 00:11:17.250763', '2011-05-17 00:11:17.250763')
+Page#publish_if_needed. publish? = 'false'
+  [1m[36mPage::Version Load (1.3ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 4) ORDER BY version desc LIMIT 1[0m
+  [1m[35mConnector Load (0.4ms)[0m  SELECT "connectors".* FROM "connectors" WHERE (connectors.page_id = 4 and connectors.page_version = 2 and connectors.container = 'main') ORDER BY position DESC LIMIT 1
+  [1m[36mAREL (0.3ms)[0m  [1mINSERT INTO "connectors" ("page_id", "page_version", "connectable_id", "connectable_type", "connectable_version", "container", "position", "created_at", "updated_at") VALUES (4, 2, 3, 'HtmlBlock', 1, 'main', 1, '2011-05-17 00:11:17.258946', '2011-05-17 00:11:17.258946')[0m
+  [1m[35mPage Load (1.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 4 LIMIT 1
+  [1m[36mPage::Version Load (1.6ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 4) ORDER BY version desc LIMIT 1[0m
+  [1m[35mAREL (0.5ms)[0m  UPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 't', "keywords" = NULL, "language" = NULL, "name" = 'Server Error', "path" = '/system/server_error', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 2 WHERE "pages"."id" = 4
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = 4 LIMIT 1[0m
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 2 AND ("connectors".page_id = 4) ORDER BY connectors.container, connectors.position, position
+  [1m[36mHtmlBlock Load (0.2ms)[0m  [1mSELECT "html_blocks".* FROM "html_blocks" WHERE "html_blocks"."deleted" = 'f' AND "html_blocks"."id" = 3 LIMIT 1[0m
+  [1m[35mHtmlBlock::Version Load (0.3ms)[0m  SELECT "html_block_versions".* FROM "html_block_versions" WHERE ("html_block_versions".html_block_id = 3) ORDER BY version desc LIMIT 1
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1[0m
+  [1m[35mPage::Version Load (1.5ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mAREL (0.4ms)[0m  [1mUPDATE "page_versions" SET "published" = 't', "updated_at" = '2011-05-17 00:11:17.485616' WHERE "page_versions"."id" = 1[0m
+  [1m[35mAREL (0.2ms)[0m  UPDATE "pages" SET "archived" = 'f', "cacheable" = 't', "deleted" = 'f', "description" = NULL, "hidden" = 'f', "keywords" = NULL, "language" = NULL, "name" = 'Home', "path" = '/', "published" = 't', "template_file_name" = 'default.html.erb', "title" = NULL, "version" = 1 WHERE "pages"."id" = 1
+  [1m[36mPage Load (0.7ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = 1 LIMIT 1[0m
+  [1m[35mConnector Load (0.2ms)[0m  SELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 1 AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position, position
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+  [1m[36mSQL (4.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.3ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.2ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.3ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.4ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.3ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.3ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.2ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.4ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (0.8ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.4ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.1ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.3ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.3ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+
+
+Started GET "/cms/login" for 127.0.0.1 at 2011-05-16 17:56:07 -0700
+  Processing by Cms::SessionsController#new as HTML
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/layouts/cms/_footer.erb (1.0ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/sessions/new.html.erb within layouts/cms/login (13.8ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 2.3ms)
+
+
+Started POST "/cms/login" for 127.0.0.1 at 2011-05-16 17:56:07 -0700
+  Processing by Cms::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "login"=>"cmsadmin", "password"=>"[FILTERED]", "commit"=>"LOGIN"}
+  [1m[35mUser Load (2.7ms)[0m  SELECT "users".* FROM "users" WHERE "users"."login" = 'cmsadmin' LIMIT 1
+  [1m[36mSQL (0.4ms)[0m  [1mSELECT 1 FROM "users" WHERE (LOWER("users"."login") = LOWER('cmsadmin')) AND ("users".id <> 1) LIMIT 1[0m
+Redirected to http://www.example.com/cms
+Completed 302 Found in 220ms
+
+
+Started GET "/cms" for 127.0.0.1 at 2011-05-16 17:56:08 -0700
+  Processing by Cms::HomeController#index as HTML
+  [1m[35mUser Load (2.4ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mPermission Load (7.7ms)[0m  [1mSELECT "permissions"."id" AS t0_r0, "permissions"."name" AS t0_r1, "permissions"."full_name" AS t0_r2, "permissions"."description" AS t0_r3, "permissions"."for_module" AS t0_r4, "permissions"."created_at" AS t0_r5, "permissions"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "permissions" LEFT OUTER JOIN "group_permissions" ON "permissions"."id" = "group_permissions"."permission_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_permissions"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)[0m
+Redirected to http://www.example.com/
+Completed 302 Found in 224ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-16 17:56:08 -0700
+  Processing by Cms::ContentController#show as HTML
+Caching is disabled
+  [1m[35mUser Load (2.7ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mPermission Load (7.9ms)[0m  [1mSELECT "permissions"."id" AS t0_r0, "permissions"."name" AS t0_r1, "permissions"."full_name" AS t0_r2, "permissions"."description" AS t0_r3, "permissions"."for_module" AS t0_r4, "permissions"."created_at" AS t0_r5, "permissions"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "permissions" LEFT OUTER JOIN "group_permissions" ON "permissions"."id" = "group_permissions"."permission_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_permissions"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)[0m
+  [1m[35mRedirect Load (0.3ms)[0m  SELECT "redirects".* FROM "redirects" WHERE "redirects"."from_path" = '/' LIMIT 1
+Displaying draft version of page
+  [1m[36mPage Load (2.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."path" = '/' LIMIT 1[0m
+  [1m[35mPage::Version Load (2.3ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mPage::Version Load (2.3ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1[0m
+  [1m[35mSectionNode Load (0.4ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE ("section_nodes".node_id = 1 AND "section_nodes".node_type = 'Page') LIMIT 1
+  [1m[36mSection Load (0.4ms)[0m  [1mSELECT "sections".* FROM "sections" WHERE "sections"."id" = 1 LIMIT 1[0m
+  [1m[35mSection Load (8.1ms)[0m  SELECT "sections"."id" AS t0_r0, "sections"."name" AS t0_r1, "sections"."path" AS t0_r2, "sections"."root" AS t0_r3, "sections"."hidden" AS t0_r4, "sections"."created_at" AS t0_r5, "sections"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "sections" LEFT OUTER JOIN "group_sections" ON "sections"."id" = "group_sections"."section_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_sections"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)
+Not Caching, user is logged in
+  [1m[36mConnector Load (0.6ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+  [1m[35mSectionNode Load (0.7ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE ("section_nodes".section_id = 1) AND (section_nodes.node_type IN ('Section','Page','Link')) ORDER BY section_nodes.position
+  [1m[36mSection Load (0.3ms)[0m  [1mSELECT "sections".* FROM "sections" WHERE "sections"."id" = 2 LIMIT 1[0m
+  [1m[35mPage Load (2.6ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/menus/_menu_item.html.erb (1.9ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/menus/_menu.html.erb (7.3ms)
+  [1m[36mSection Load (9.3ms)[0m  [1mSELECT "sections"."id" AS t0_r0, "sections"."name" AS t0_r1, "sections"."path" AS t0_r2, "sections"."root" AS t0_r3, "sections"."hidden" AS t0_r4, "sections"."created_at" AS t0_r5, "sections"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "group_types"."id" AS t2_r0, "group_types"."name" AS t2_r1, "group_types"."guest" AS t2_r2, "group_types"."cms_access" AS t2_r3, "group_types"."created_at" AS t2_r4, "group_types"."updated_at" AS t2_r5, "users"."id" AS t3_r0, "users"."login" AS t3_r1, "users"."first_name" AS t3_r2, "users"."last_name" AS t3_r3, "users"."email" AS t3_r4, "users"."crypted_password" AS t3_r5, "users"."salt" AS t3_r6, "users"."created_at" AS t3_r7, "users"."updated_at" AS t3_r8, "users"."expires_at" AS t3_r9, "users"."remember_token" AS t3_r10, "users"."remember_token_expires_at" AS t3_r11, "users"."reset_token" AS t3_r12 FROM "sections" LEFT OUTER JOIN "group_sections" ON "sections"."id" = "group_sections"."section_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_sections"."group_id" LEFT OUTER JOIN "group_types" ON "group_types"."id" = "groups"."group_type_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1 and group_types.cms_access = 't')[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mConnector Load (0.3ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND "connectors"."container" = 'main' AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND "connectors"."container" = 'main' AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/pages/_edit_container.html.erb (7.2ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/content/show.html.erb within layouts/templates/default (115.9ms)
+Completed 200 OK in 824ms (Views: 150.6ms | ActiveRecord: 53.6ms)
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (0.7ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.2ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+
+
+Started GET "/cms/login" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+  Processing by Cms::SessionsController#new as HTML
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/layouts/cms/_footer.erb (0.8ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/sessions/new.html.erb within layouts/cms/login (11.3ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/stylesheets/cms/application.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/login.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/javascripts/jquery.js" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/javascripts/jquery-ui.js" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/javascripts/cms/application.js" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/login_bottom.jpg" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/javascripts/jquery.cookie.js" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/login_top.gif" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/reset.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/buttons.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/nav.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/menu.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/stylesheets/cms/data_table.css" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/bg.png" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/buttons/button_cap.png" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/login_bg.jpg" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/buttons/button.png" for 127.0.0.1 at 2011-05-16 18:35:03 -0700
+
+
+Started GET "/images/cms/buttons/button_cap_h.png" for 127.0.0.1 at 2011-05-16 18:35:04 -0700
+
+
+Started GET "/images/cms/buttons/button_h.png" for 127.0.0.1 at 2011-05-16 18:35:04 -0700
+
+
+Started POST "/cms/login" for 127.0.0.1 at 2011-05-16 18:35:05 -0700
+  Processing by Cms::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "login"=>"cmsadmin", "password"=>"[FILTERED]", "commit"=>"LOGIN"}
+  [1m[35mUser Load (1.1ms)[0m  SELECT "users".* FROM "users" WHERE "users"."login" = 'cmsadmin' LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT 1 FROM "users" WHERE (LOWER("users"."login") = LOWER('cmsadmin')) AND ("users".id <> 1) LIMIT 1[0m
+Redirected to http://127.0.0.1:58356/cms
+Completed 302 Found in 167ms
+
+
+Started GET "/cms" for 127.0.0.1 at 2011-05-16 18:35:05 -0700
+  Processing by Cms::HomeController#index as HTML
+  [1m[35mUser Load (1.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mPermission Load (4.0ms)[0m  [1mSELECT "permissions"."id" AS t0_r0, "permissions"."name" AS t0_r1, "permissions"."full_name" AS t0_r2, "permissions"."description" AS t0_r3, "permissions"."for_module" AS t0_r4, "permissions"."created_at" AS t0_r5, "permissions"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "permissions" LEFT OUTER JOIN "group_permissions" ON "permissions"."id" = "group_permissions"."permission_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_permissions"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)[0m
+Redirected to http://127.0.0.1:58356/
+Completed 302 Found in 144ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-05-16 18:35:05 -0700
+  Processing by Cms::ContentController#show as HTML
+Caching is disabled
+  [1m[35mUser Load (1.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mPermission Load (3.7ms)[0m  [1mSELECT "permissions"."id" AS t0_r0, "permissions"."name" AS t0_r1, "permissions"."full_name" AS t0_r2, "permissions"."description" AS t0_r3, "permissions"."for_module" AS t0_r4, "permissions"."created_at" AS t0_r5, "permissions"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "permissions" LEFT OUTER JOIN "group_permissions" ON "permissions"."id" = "group_permissions"."permission_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_permissions"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)[0m
+  [1m[35mRedirect Load (0.2ms)[0m  SELECT "redirects".* FROM "redirects" WHERE "redirects"."from_path" = '/' LIMIT 1
+Displaying draft version of page
+  [1m[36mPage Load (1.1ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."path" = '/' LIMIT 1[0m
+  [1m[35mPage::Version Load (1.7ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mPage::Version Load (3.7ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1[0m
+  [1m[35mSectionNode Load (0.4ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE ("section_nodes".node_id = 1 AND "section_nodes".node_type = 'Page') LIMIT 1
+  [1m[36mSection Load (0.3ms)[0m  [1mSELECT "sections".* FROM "sections" WHERE "sections"."id" = 1 LIMIT 1[0m
+  [1m[35mSection Load (4.3ms)[0m  SELECT "sections"."id" AS t0_r0, "sections"."name" AS t0_r1, "sections"."path" AS t0_r2, "sections"."root" AS t0_r3, "sections"."hidden" AS t0_r4, "sections"."created_at" AS t0_r5, "sections"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "sections" LEFT OUTER JOIN "group_sections" ON "sections"."id" = "group_sections"."section_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_sections"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)
+Not Caching, user is logged in
+  [1m[36mConnector Load (0.5ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+  [1m[35mSectionNode Load (0.5ms)[0m  SELECT "section_nodes".* FROM "section_nodes" WHERE ("section_nodes".section_id = 1) AND (section_nodes.node_type IN ('Section','Page','Link')) ORDER BY section_nodes.position
+  [1m[36mSection Load (0.3ms)[0m  [1mSELECT "sections".* FROM "sections" WHERE "sections"."id" = 2 LIMIT 1[0m
+  [1m[35mPage Load (1.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/menus/_menu_item.html.erb (1.8ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/menus/_menu.html.erb (5.8ms)
+  [1m[36mSection Load (5.9ms)[0m  [1mSELECT "sections"."id" AS t0_r0, "sections"."name" AS t0_r1, "sections"."path" AS t0_r2, "sections"."root" AS t0_r3, "sections"."hidden" AS t0_r4, "sections"."created_at" AS t0_r5, "sections"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "group_types"."id" AS t2_r0, "group_types"."name" AS t2_r1, "group_types"."guest" AS t2_r2, "group_types"."cms_access" AS t2_r3, "group_types"."created_at" AS t2_r4, "group_types"."updated_at" AS t2_r5, "users"."id" AS t3_r0, "users"."login" AS t3_r1, "users"."first_name" AS t3_r2, "users"."last_name" AS t3_r3, "users"."email" AS t3_r4, "users"."crypted_password" AS t3_r5, "users"."salt" AS t3_r6, "users"."created_at" AS t3_r7, "users"."updated_at" AS t3_r8, "users"."expires_at" AS t3_r9, "users"."remember_token" AS t3_r10, "users"."remember_token_expires_at" AS t3_r11, "users"."reset_token" AS t3_r12 FROM "sections" LEFT OUTER JOIN "group_sections" ON "sections"."id" = "group_sections"."section_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_sections"."group_id" LEFT OUTER JOIN "group_types" ON "group_types"."id" = "groups"."group_type_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1 and group_types.cms_access = 't')[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mConnector Load (0.3ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND "connectors"."container" = 'main' AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "connectors".* FROM "connectors" WHERE "connectors"."page_version" = 3 AND "connectors"."container" = 'main' AND ("connectors".page_id = 1) ORDER BY connectors.container, connectors.position[0m
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/pages/_edit_container.html.erb (6.6ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/content/show.html.erb within layouts/templates/default (148.5ms)
+Completed 200 OK in 445ms (Views: 155.0ms | ActiveRecord: 25.5ms)
+
+
+Started GET "/cms/toolbar?mode=edit&page_id=1&page_toolbar=1&page_version=3" for 127.0.0.1 at 2011-05-16 18:35:05 -0700
+  Processing by Cms::ToolbarController#index as HTML
+  Parameters: {"mode"=>"edit", "page_id"=>"1", "page_toolbar"=>"1", "page_version"=>"3"}
+  [1m[35mUser Load (1.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mPermission Load (3.9ms)[0m  [1mSELECT "permissions"."id" AS t0_r0, "permissions"."name" AS t0_r1, "permissions"."full_name" AS t0_r2, "permissions"."description" AS t0_r3, "permissions"."for_module" AS t0_r4, "permissions"."created_at" AS t0_r5, "permissions"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "users"."id" AS t2_r0, "users"."login" AS t2_r1, "users"."first_name" AS t2_r2, "users"."last_name" AS t2_r3, "users"."email" AS t2_r4, "users"."crypted_password" AS t2_r5, "users"."salt" AS t2_r6, "users"."created_at" AS t2_r7, "users"."updated_at" AS t2_r8, "users"."expires_at" AS t2_r9, "users"."remember_token" AS t2_r10, "users"."remember_token_expires_at" AS t2_r11, "users"."reset_token" AS t2_r12 FROM "permissions" LEFT OUTER JOIN "group_permissions" ON "permissions"."id" = "group_permissions"."permission_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_permissions"."group_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1)[0m
+  [1m[35mPage Load (1.6ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1
+  [1m[36mPage::Version Load (1.6ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1[0m
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/layouts/_cms_toolbar.html.erb (5.1ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1[0m
+  [1m[35mPage::Version Load (1.4ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mSectionNode Load (0.2ms)[0m  [1mSELECT "section_nodes".* FROM "section_nodes" WHERE ("section_nodes".node_id = 1 AND "section_nodes".node_type = 'Page') LIMIT 1[0m
+  [1m[35mSection Load (0.2ms)[0m  SELECT "sections".* FROM "sections" WHERE "sections"."id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1[0m
+  [1m[35mSection Load (4.9ms)[0m  SELECT "sections"."id" AS t0_r0, "sections"."name" AS t0_r1, "sections"."path" AS t0_r2, "sections"."root" AS t0_r3, "sections"."hidden" AS t0_r4, "sections"."created_at" AS t0_r5, "sections"."updated_at" AS t0_r6, "groups"."id" AS t1_r0, "groups"."name" AS t1_r1, "groups"."code" AS t1_r2, "groups"."group_type_id" AS t1_r3, "groups"."created_at" AS t1_r4, "groups"."updated_at" AS t1_r5, "group_types"."id" AS t2_r0, "group_types"."name" AS t2_r1, "group_types"."guest" AS t2_r2, "group_types"."cms_access" AS t2_r3, "group_types"."created_at" AS t2_r4, "group_types"."updated_at" AS t2_r5, "users"."id" AS t3_r0, "users"."login" AS t3_r1, "users"."first_name" AS t3_r2, "users"."last_name" AS t3_r3, "users"."email" AS t3_r4, "users"."crypted_password" AS t3_r5, "users"."salt" AS t3_r6, "users"."created_at" AS t3_r7, "users"."updated_at" AS t3_r8, "users"."expires_at" AS t3_r9, "users"."remember_token" AS t3_r10, "users"."remember_token_expires_at" AS t3_r11, "users"."reset_token" AS t3_r12 FROM "sections" LEFT OUTER JOIN "group_sections" ON "sections"."id" = "group_sections"."section_id" LEFT OUTER JOIN "groups" ON "groups"."id" = "group_sections"."group_id" LEFT OUTER JOIN "group_types" ON "group_types"."id" = "groups"."group_type_id" LEFT OUTER JOIN "user_group_memberships" ON "groups"."id" = "user_group_memberships"."group_id" LEFT OUTER JOIN "users" ON "users"."id" = "user_group_memberships"."user_id" WHERE (users.id = 1 and group_types.cms_access = 't')
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."deleted" = 'f' AND "pages"."id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE "page_versions"."version" = 3 AND ("page_versions".page_id = 1) LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+  [1m[36mTask Load (0.9ms)[0m  [1mSELECT "tasks".* FROM "tasks" WHERE ("tasks".page_id = 1) AND (completed_at is null) LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "page_versions".* FROM "page_versions" WHERE ("page_versions".page_id = 1) ORDER BY version desc LIMIT 1
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/layouts/_page_toolbar.html.erb (165.4ms)
+Rendered /home/tristan/.rvm/gems/ruby-1.9.2-p180@bcms_mindbody/gems/browsercms-3.3.0/app/views/cms/toolbar/index.html.erb within layouts/cms/toolbar (178.2ms)
+Completed 200 OK in 267ms (Views: 212.0ms | ActiveRecord: 15.9ms)
+
+
+Started GET "/images/cms/pages/connect_connectable.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/pages/add_connectable.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/published_status.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/containers/alpha.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/stylesheets/cms/page_toolbar.css" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/browsercms_logo.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/nav_dash.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/nav_content_library.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/nav_sitemap_on.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/javascripts/jquery.selectbox-0.5.js" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/nav_admin.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/icons/user.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/status_published_l.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_published_l.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_l.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_r.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_published_r.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_l.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_r.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/toolbar_bg.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_bg.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/usercontrols_bg.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/usercontrols_bg_cap.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_published_bg.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/status_published_bg.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/page_toolbar_inset_bg.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/buttons/button_bg.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/buttons/delete_x.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/buttons/button_left_bg.png" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/page_toolbar/visual_editor_state_bg.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+
+
+Started GET "/images/cms/buttons/sm_button.gif" for 127.0.0.1 at 2011-05-16 18:35:06 -0700
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (1.0ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [1m[35mSQL (1.1ms)[0m   SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+  [1m[36mPageRoute Load (0.4ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (0.8ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
+Setting path /members
+  [1m[36mSQL (0.9ms)[0m  [1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
