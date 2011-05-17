@@ -10,12 +10,12 @@ gem 'mysql2'
 
 group :test do
 	gem 'cucumber'
-	gem 'cucumber-rails'
+	gem 'cucumber-rails', '~> 0.5.0.beta1'
 	gem 'rspec'
 	gem 'rspec-rails'
-	gem 'capybara'
 	gem 'spork'	
 	gem 'sqlite3'
+	gem 'autotest'
 end
 
 # Use unicorn as the web server
@@ -47,4 +47,5 @@ gem "mindbody", '~> 0.0.1'
 gem "browsercms", '~> 3.3.0'
 #gem 'bcms_settings' 
 gem "jeweler", :group => :development
+
 gemspec
