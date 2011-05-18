@@ -49,3 +49,4 @@ gem "browsercms", '~> 3.3.0'
 gem "jeweler", :group => :development
 
 gemspec
+gem "browsercms", "3.3.0"

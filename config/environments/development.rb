@@ -24,3 +24,5 @@ BcmsMindbody::Application.configure do
   config.action_dispatch.best_standards_support = :builtin
 end
 
+
+SITE_DOMAIN="localhost:3000"

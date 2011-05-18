@@ -1,4 +1,6 @@
 BcmsMindbody::Application.configure do
+  config.action_view.cache_template_loading = false
+  config.action_controller.page_cache_directory = Rails.root + '/public/cache/'
   # Settings specified here will take precedence over those in config/application.rb
 
   # The production environment is meant for finished, "live" apps.
@@ -47,3 +49,5 @@ BcmsMindbody::Application.configure do
   # Send deprecation notices to registered listeners
   config.active_support.deprecation = :notify
 end
+
+SITE_DOMAIN="localhost:3000"

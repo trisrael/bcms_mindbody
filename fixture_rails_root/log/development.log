@@ -1287,3 +1287,5 @@ Add Cms::Dependencies and other load_path configurations.
  FROM sqlite_master
  WHERE type = 'table' AND NOT name = 'sqlite_sequence'
   [1m[36mPageRoute Load (0.2ms)[0m  [1mSELECT "page_routes".* FROM "page_routes" ORDER BY page_routes.name[0m
+Adding Cms::Routes to ActionDispatch
+Add Cms::Dependencies and other load_path configurations.
