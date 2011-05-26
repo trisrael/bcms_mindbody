@@ -160,7 +160,7 @@ PLATFORMS
 DEPENDENCIES
   autotest
   bcms_mindbody!
-  browsercms (~> 3.3.0)
+  browsercms (= 3.3.0)
   cucumber
   cucumber-rails (~> 0.5.0.beta1)
   jeweler

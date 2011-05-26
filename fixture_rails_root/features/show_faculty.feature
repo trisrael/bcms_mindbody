@@ -6,8 +6,9 @@ Feature: Show faculty members
 
 	Scenario: View Staff Portlet form
 		When I login as admin
-		And I follow "Content Library"
+		And I go to the content library
 		And I follow "Portlet"
+		And I follow "Add new Content"
 		And I follow "Staff Portlet"
 		Then I should see inputs
 		|SourceCredentials|

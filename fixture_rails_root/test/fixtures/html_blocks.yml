@@ -47,4 +47,17 @@ html_block_3:
     <p>The server encountered an unexpected condition that prevented it from fulfilling the request.</p>
   created_at: Wed Mar 04 22:55:28 UTC 2009
 
+html_block_4:
+  name: Hello World
+  updated_at: Wed Mar 04 22:55:28 UTC 2009
+  updated_by_id: 1
+  published: true
+  lock_version: 0
+  id: 4
+  created_by_id: 1
+  version: 1
+  archived: false
+  deleted: false
+  content: <h1>Hello, World!</h1>
+  created_at: Wed Mar 04 22:55:28 UTC 2009
 

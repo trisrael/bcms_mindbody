@@ -8,19 +8,18 @@
 
 <h3>Filters</h3>
 <%= f.cms_text_field "StaffIDs" %>
-<%= f.cms_text_field :per_page %>
 
 <h4>Staff Types</h3>
-<%= f.cms_checkbox :staff %>
-<%= f.cms_checkbox :appointment_instructor %>
-<%= f.cms_checkbox :class_instructor %>
-<%= f.cms_checkbox :past_instructor %>
+<%= f.cms_check_box :staff %>
+<%= f.cms_check_box :appointment_instructor %>
+<%= f.cms_check_box :class_instructor %>
+<%= f.cms_check_box :past_instructor %>
 
 <h4>Fields</h4>
-<%= f.cms_checkbox :name %>
-<%= f.cms_checkbox :bio %>
-<%= f.cms_checkbox :image %>
-<%= f.cms_checkbox :id %>
+<%= f.cms_check_box :name %>
+<%= f.cms_check_box :bio %>
+<%= f.cms_check_box :image %>
+<%= f.cms_check_box :id %>
 
 
 <%= f.cms_template_editor :template %>

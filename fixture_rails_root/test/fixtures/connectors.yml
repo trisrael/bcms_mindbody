@@ -71,4 +71,27 @@ connector_6:
   created_at: Wed Mar 04 22:55:28 UTC 2009
   connectable_type: HtmlBlock
 
+connector_7:
+  connectable_id: 4
+  updated_at: Wed Mar 04 22:55:28 UTC 2009
+  page_version: 2
+  container: main
+  page_id: 1
+  id: 7
+  connectable_version: 1
+  position: 1
+  created_at: Wed Mar 04 22:55:28 UTC 2009
+  connectable_type: HtmlBlock
+
+connector_8:
+  connectable_id: 4
+  updated_at: Wed Mar 04 22:55:28 UTC 2009
+  page_version: 3
+  container: main
+  page_id: 1
+  id: 8
+  connectable_version: 1
+  position: 1
+  created_at: Wed Mar 04 22:55:28 UTC 2009
+  connectable_type: HtmlBlock
 

@@ -1,0 +1,3 @@
+class MindbodyController < ApplicationController	
+	
+end
