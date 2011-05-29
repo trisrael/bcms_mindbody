@@ -1,0 +1,2 @@
+class StaffOptions < MindbodyOptions
+end
