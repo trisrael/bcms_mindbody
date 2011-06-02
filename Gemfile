@@ -44,7 +44,6 @@ end
 
 gem 'rails', '~> 3.0.7'
 gem "mindbody", '~> 0.0.1'
-#gem 'bcms_settings' 
 gem "jeweler", :group => :development
 
 gemspec

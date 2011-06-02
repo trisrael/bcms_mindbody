@@ -13,9 +13,8 @@
 		then
 		echo "Adding bcms_mindbody module to dummy app"
 		cd ./fixture_rails_root
-		rails g cms:install bcms_mindbody	
-		echo "Removing changed to routes file"
-		#git checkout config/routes.rb
-		rails s	
+		rails g cms:install bcms_mindbody
+		rails generate bcms_mindbody:install			
+		#rails s	
 		cd ..
 	fi
