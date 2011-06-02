@@ -1,4 +1,4 @@
-class StaffPortlet < Portlet
+class StaffPortlet < MindbodyPortlet
 
   # Mark this as 'true' to allow the portlet's template to be editable via the CMS admin UI.
   enable_template_editor true
