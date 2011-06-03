@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110529021707) do
+ActiveRecord::Schema.define(:version => 20110602161007) do
 
   create_table "attachment_versions", :force => true do |t|
     t.integer  "attachment_id"
@@ -261,22 +261,6 @@ ActiveRecord::Schema.define(:version => 20110529021707) do
     t.integer  "updated_by_id"
   end
 
-  create_table "mindbody_option_versions", :force => true do |t|
-    t.integer  "mindbody_option_id"
-    t.integer  "version"
-    t.string   "name"
-    t.string   "type"
-    t.text     "options"
-    t.boolean  "published",          :default => false
-    t.boolean  "deleted",            :default => false
-    t.boolean  "archived",           :default => false
-    t.string   "version_comment"
-    t.integer  "created_by_id"
-    t.integer  "updated_by_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
   create_table "mindbody_options", :force => true do |t|
     t.integer  "version"
     t.integer  "lock_version",  :default => 0
@@ -290,6 +274,11 @@ ActiveRecord::Schema.define(:version => 20110529021707) do
     t.integer  "updated_by_id"
     t.datetime "created_at"
     t.datetime "updated_at"
+  end
+
+  create_table "mindbody_options_associations", :force => true do |t|
+    t.integer "mindbody_portlet_id"
+    t.integer "mindbody_options_id"
   end
 
   create_table "page_route_options", :force => true do |t|

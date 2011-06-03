@@ -7,13 +7,14 @@ class CreateMindbodyOptions < ActiveRecord::Migration
       t.text :options, :size => (64.kilobytes + 1)
     end
 	s = "Mindbody Parameters"
-	ContentType.create!(:name => 'Miscellaneous', :group_name => s)	
-    CategoryType.create(:name => s)
+	ContentType.create!(:name => 'MindbodyOptions', :group_name => s)	
+    CategoryType.create(:name => 'MindbodyOptions')
   end
 
 
   def self.down
-	ContentType.delete_all(['name = ?', 'Miscellaneous'])
+	ContentType.delete_all(['name = ?', 'MindbodyOptions'])
+	CategoryType.delete_all(['name = ?', 'MindbodyOptions'])
     drop_table :mindbody_options
   end
 
