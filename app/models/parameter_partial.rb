@@ -2,7 +2,7 @@
 class ParameterPartial < ActiveRecord::Base
 	acts_as_content_block :taggable => false, :renderable => false, :versioned => false
 	serialize :options, Hash
-	validates_presence_of :site_ids, :source_name, :password
+	validates_presence_of :site_ids, :source_name, :password, :name
 	
 	module Constants
 		SiteIDs = 'SiteIds'
@@ -38,7 +38,9 @@ class ParameterPartial < ActiveRecord::Base
 		int_ids = []
 		begin
 			ids.each do |id, ind|
-				int_ids << id.to_i
+				int_s = id.to_i
+				int_ids << int_s
+				raise "Invalid site_id given" if int_s == 0
 			end
 			set_source_creds_attr Constants::SiteIDs, int_ids		
 		rescue	
