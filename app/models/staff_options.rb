@@ -1,2 +1,2 @@
-class StaffOptions < MindbodyOptions
+class StaffParameterPartial < ParameterPartial
 end

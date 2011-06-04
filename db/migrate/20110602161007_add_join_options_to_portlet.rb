@@ -1,13 +1,13 @@
 class AddJoinOptionsToPortlet < ActiveRecord::Migration
    def self.up
-    create_table :mindbody_options_associations do |t|
+    create_table :parameter_partial_associations do |t|
       t.integer  :mindbody_portlet_id
-      t.integer  :mindbody_options_id
+      t.integer  :parameter_partial_id
     end
 
   end
 
   def self.down
-    drop_table :mindbody_options_associations
+    drop_table :parameter_partial_associations
   end
 end
