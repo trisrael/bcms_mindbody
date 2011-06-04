@@ -1,4 +1,4 @@
-class CreateMindbodyOptions < ActiveRecord::Migration
+class CreateParameterPartials < ActiveRecord::Migration
 
   module Consts
   	Group = "Mindbody Parameters"
