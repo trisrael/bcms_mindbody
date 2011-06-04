@@ -1,3 +1,2 @@
-class MindbodyController < ApplicationController	
-	
+class MindbodyController < ApplicationController
 end

@@ -1,2 +1,2 @@
-class Cms::StaffOptionsController < Cms::MindbodyOptionsController
+class Cms::StaffOptionsController < Cms::ContentBlockController
 end
