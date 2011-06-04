@@ -261,26 +261,6 @@ ActiveRecord::Schema.define(:version => 20110602161007) do
     t.integer  "updated_by_id"
   end
 
-  create_table "mindbody_options", :force => true do |t|
-    t.integer  "version"
-    t.integer  "lock_version",  :default => 0
-    t.string   "name"
-    t.string   "type"
-    t.text     "options"
-    t.boolean  "published",     :default => false
-    t.boolean  "deleted",       :default => false
-    t.boolean  "archived",      :default => false
-    t.integer  "created_by_id"
-    t.integer  "updated_by_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "mindbody_options_associations", :force => true do |t|
-    t.integer "mindbody_portlet_id"
-    t.integer "mindbody_options_id"
-  end
-
   create_table "page_route_options", :force => true do |t|
     t.integer  "page_route_id"
     t.string   "type"
@@ -336,6 +316,24 @@ ActiveRecord::Schema.define(:version => 20110602161007) do
     t.boolean  "published",          :default => false
     t.boolean  "deleted",            :default => false
     t.boolean  "archived",           :default => false
+    t.integer  "created_by_id"
+    t.integer  "updated_by_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "parameter_partial_associations", :force => true do |t|
+    t.integer "mindbody_portlet_id"
+    t.integer "parameter_partial_id"
+  end
+
+  create_table "parameter_partials", :force => true do |t|
+    t.string   "name"
+    t.string   "type"
+    t.text     "options"
+    t.boolean  "published",     :default => false
+    t.boolean  "deleted",       :default => false
+    t.boolean  "archived",      :default => false
     t.integer  "created_by_id"
     t.integer  "updated_by_id"
     t.datetime "created_at"
