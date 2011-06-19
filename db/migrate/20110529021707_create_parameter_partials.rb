@@ -2,22 +2,21 @@ class CreateParameterPartials < ActiveRecord::Migration
 
   module Consts
   	Group = "Mindbody Parameters"
-	Site = "SiteParameterPartial"
-	Staff = "StaffParameterPartial"
+	Name = "ParameterPartial"
   end
 
   def self.up
-	Cms::ContentType.create!(:name => Consts::Site, :group_name => Consts::Group)
-	Cms::ContentType.create!(:name => Consts::Staff, :group_name => Consts::Group)
+	create_content_table :parameter_partials, {:versioned => false, :publishable => false, :renderable => false} do |t|
+      t.string :name
+      t.string :type
+      t.text :options, :size => (64.kilobytes + 1)
+    end
+
   end
 
 
   def self.down
-	Cms::ContentType.delete_all(['name = ?', Consts::Staff])
-	CategoryType.delete_all(['name = ?', Consts::Staff])
-
-	Cms::ContentType.delete_all(['name = ?', Consts::Site])
-	CategoryType.delete_all(['name = ?', Consts::Site])
+    drop_table :parameter_partials
   end
 
 end
