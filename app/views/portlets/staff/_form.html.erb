@@ -2,7 +2,7 @@
 
 <h4>Options</h4>
 
-<%= raise f.instance_variables.inspect.to_s %>
+<%= raise f.object.instance_variables.inspect.to_s %>
 
 <%= f.label "Source Credentials" %>
 <% SiteParameterPartial.all.each do |pp| -%>
