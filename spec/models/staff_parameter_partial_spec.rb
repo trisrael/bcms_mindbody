@@ -14,6 +14,9 @@ describe StaffParameterPartial, "#create" do
 		@default_vals = @default_source_creds.merge({:name => "Name"})
 	end
 
+	it "should create correct fields hash entries when receiving fields params hash" do
+	end
+
 	it "should error when no name supplied" do
 		lambda{ 			
 			StaffParameterPartial.create!(@default_source_creds)

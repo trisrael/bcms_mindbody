@@ -1,6 +1,11 @@
 <%= f.cms_text_field :name %>
 
-<%= f.cms_text_field :source_name %>
-<%= f.cms_text_field :password %>
-<%= f.cms_text_field :site_ids %>
+<%= f.cms_text_field "StaffIDs" %>
 
+<% f.fields_for :filters do |ff| %>
+	<%= ff.cms_check_box :appointment_instructor %>
+	<%= ff.cms_check_box :class_instructor %>
+	<%= ff.cms_check_box :staff_viewable %>
+	<%= ff.cms_check_box :female %>
+	<%= ff.cms_check_box :male %>
+<% end %>

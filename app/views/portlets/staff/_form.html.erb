@@ -1,25 +1,21 @@
 <%= f.cms_text_field :name %>
 
-<h3>Authentication</h3>
-<%= f.label "SourceCredentials" %>
-<%= f.cms_text_field :source_name %>
-<%= f.cms_text_field :password %>
-<%= f.cms_text_field "SiteIDs" %>
+<h4>Options</h4>
 
-<h3>Filters</h3>
-<%= f.cms_text_field "StaffIDs" %>
+<%= raise f.instance_variables.inspect.to_s %>
 
-<h4>Staff Types</h3>
-<%= f.cms_check_box :staff %>
-<%= f.cms_check_box :appointment_instructor %>
-<%= f.cms_check_box :class_instructor %>
-<%= f.cms_check_box :past_instructor %>
+<%= f.label "Source Credentials" %>
+<% SiteParameterPartial.all.each do |pp| -%>
+	<div>
+ 	   <%= radio_box_tag :parameter_partial_id, pp.id %>
+    </div>
+<% end %>
 
-<h4>Fields</h4>
-<%= f.cms_check_box :name %>
-<%= f.cms_check_box :bio %>
-<%= f.cms_check_box :image %>
-<%= f.cms_check_box :id %>
-
+<%= f.label "Staff Options" %>
+<% SiteParameterPartial.all.each do |pp| -%>
+	<div>
+ 	   <%= radio_box_tag :parameter_partial_id, pp.id %>
+    </div>
+<% end %>
 
 <%= f.cms_template_editor :template %>

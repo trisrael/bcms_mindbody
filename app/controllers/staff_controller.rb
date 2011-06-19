@@ -1,6 +1,11 @@
 class StaffController < ActionController::Base
   def index
 	@staff = Staff.all(params)
+
+	if has_options?(params)
+		
+	end
+
 	respond_to do |format|
  		format.html #index.html.erb
 		format.json { render :json => @staff }	
@@ -20,6 +25,10 @@ class StaffController < ActionController::Base
   end
 
   private
+
+  #Helpers
+
+	
   
   #Takes a list of options held within a Staff Portlet and translates
   #them into understand options for the Mindbody API
