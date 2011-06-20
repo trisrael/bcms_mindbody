@@ -1,5 +1,19 @@
 <%= f.cms_text_field :name %>
 
+<%
+	#Helper methods (since helpers in modules aren't exactly workign 
+
+	#Simple helpers for giving HTML id's for multiple radio buttons and checkboxes
+	def checkbox_id(id)
+		"checkbox_" + id
+	end
+	
+	def radio_id(id)
+		"radio_" + id
+	end
+
+%>
+
 <h4>Options</h4>
 
 <% #Local variables %>
