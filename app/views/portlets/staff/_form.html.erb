@@ -7,8 +7,8 @@
 <% @old_rec = !@p.new_record? %>
 <% @m_name = "staff_portlet" %>
 
-<% @site_par_id = @old_rec ? @p.site_parameter_partial.id || -1 %>
-<% @staff_pars = @old_rec ? @p.staff_parameter_partials || [] %>
+<% @site_par_id = @old_rec ? @p.site_parameter_partial.id : -1 %>
+<% @staff_pars = @old_rec ? @p.staff_parameter_partials : [] %>
 
 <%= f.label "Source Credentials" %>
 <div>
