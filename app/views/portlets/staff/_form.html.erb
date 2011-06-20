@@ -5,11 +5,15 @@
 
 	#Simple helpers for giving HTML id's for multiple radio buttons and checkboxes
 	def checkbox_id(id)
-		"checkbox_" + id
+		str_id "checkbox_", id
 	end
 	
 	def radio_id(id)
-		"radio_" + id
+		str_id "radio_", id
+	end
+
+	def str_id(str, id)
+	 	str + id.to_s
 	end
 
 %>
