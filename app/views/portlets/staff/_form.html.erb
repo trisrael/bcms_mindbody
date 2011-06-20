@@ -1,7 +1,7 @@
 <%= f.cms_text_field :name %>
 
 <%
-	#Helper methods (since helpers in modules aren't exactly workign 
+	#Helper methods (since helpers in modules aren't exactly working) 
 
 	#Simple helpers for giving HTML id's for multiple radio buttons and checkboxes
 	def checkbox_id(id)
@@ -15,7 +15,6 @@
 	def str_id(str, id)
 	 	str + id.to_s
 	end
-
 %>
 
 <h4>Options</h4>
@@ -32,7 +31,7 @@
 <div>
 <% SiteParameterPartial.all.each do |pp| -%>	
 	<% @r_id = radio_id(pp.id) %>
-	<%= label_tag @r_id, pp.name, pp.options.to_hash.to_yaml %>
+	<%= label_tag @r_id, pp.name, { :title => pp.options.to_hash.to_yaml } %>
 	<%= f.radio_button :site_parameter_partial_id, pp.id , {:id => @r_id, 'checked' => @site_par_id == pp.id ? true : false }%>
 <% end %>
 </div>
@@ -41,8 +40,8 @@
 <div>
 <% StaffParameterPartial.all.each do |pp| -%>
 	<% @c_id = checkbox_id(pp.id) %>
-	<%= label_tag @c_id, pp.name, pp.options.to_hash.to_yaml %>
-	<%= f.check_box "staff_parameter_ids[]", {:id => @c_id, 'checked' => @staff_pars.any?{ |sp| sp.id == pp.id } ? true : false }, pp.id %>
+	<%= label_tag @c_id, pp.name, { :title => pp.options.to_hash.to_yaml } %>
+	<%= f.check_box "staff_parameter_ids[]", { :id => @c_id, 'checked' => @staff_pars.any?{ |sp| sp.id == pp.id } ? true : false }, pp.id %>
 <% end %>
 </div>
 
