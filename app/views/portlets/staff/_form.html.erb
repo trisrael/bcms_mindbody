@@ -2,20 +2,26 @@
 
 <h4>Options</h4>
 
-<%= raise f.object.instance_variables.inspect.to_s %>
+<% #Local variables %>
+<% @p = f.object %>
+<% @old_rec = !@p.new_record? %>
+<% @m_name = "staff_portlet" %>
+
+<% @site_par_id = @old_rec ? @p.site_parameter_partial.id || -1 %>
+<% @staff_pars = @old_rec ? @p.staff_parameter_partials || [] %>
 
 <%= f.label "Source Credentials" %>
-<% SiteParameterPartial.all.each do |pp| -%>
-	<div>
- 	   <%= radio_box_tag :parameter_partial_id, pp.id %>
-    </div>
+<div>
+<% SiteParameterPartial.all.each do |pp| -%>	
+	<%= f.radio_button @m_name, :site_parameter_partial_id, {'checked' => @site_par_id == pp.id ? true : false },pp.id %>
 <% end %>
+</div>
 
 <%= f.label "Staff Options" %>
-<% SiteParameterPartial.all.each do |pp| -%>
-	<div>
- 	   <%= radio_box_tag :parameter_partial_id, pp.id %>
-    </div>
+<div>
+<% StaffParameterPartial.all.each do |pp| -%>	
+	<%= f.check_box @m_name, :staff_parameter_ids, {'checked' => @staff_pars.any?{ |sp| sp.id == pp.id } ? true : false }, pp.id %>
 <% end %>
+</div>
 
 <%= f.cms_template_editor :template %>
