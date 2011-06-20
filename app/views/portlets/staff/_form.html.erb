@@ -26,15 +26,15 @@
 
 <% @site_par_id = @old_rec ? @p.site_parameter_partial.id : -1 %>
 <% @staff_pars = @old_rec ? @p.staff_parameter_partials : [] %>
-
 <%= f.label "Source Credentials" %>
 <div>
 <% SiteParameterPartial.all.each do |pp| -%>	
 	<% @r_id = radio_id(pp.id) %>
 	<%= label_tag @r_id, pp.name, { :title => pp.options.to_hash.to_yaml } %>
-	<%= f.radio_button :site_parameter_partial_id, pp.id , {:id => @r_id, 'checked' => @site_par_id == pp.id ? true : false }%>
+	<%= f.radio_button :site_parameter_partial_id, pp.id , { :id => @r_id, 'checked' => @site_par_id == pp.id ? true : false } %>
 <% end %>
 </div>
+</br>
 
 <%= f.label "Staff Options" %>
 <div>
