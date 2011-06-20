@@ -2,7 +2,7 @@
 
 <%= f.cms_text_field :staff_ids %>
 
-<% f.fields_for :filters do |ff| %>
+<%= f.fields_for :filters do |ff| %>
 	<%= ff.cms_check_box :appointment_instructor %>
 	<%= ff.cms_check_box :class_instructor %>
 	<%= ff.cms_check_box :staff_viewable %>
