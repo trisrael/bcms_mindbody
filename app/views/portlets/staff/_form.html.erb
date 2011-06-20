@@ -13,14 +13,14 @@
 <%= f.label "Source Credentials" %>
 <div>
 <% SiteParameterPartial.all.each do |pp| -%>	
-	<%= f.radio_button :site_parameter_partial_id, {'checked' => @site_par_id == pp.id ? true : false }, pp.id %>
+	<%= f.radio_button :site_parameter_partial_id, pp.id, {'checked' => @site_par_id == pp.id ? true : false } %>
 <% end %>
 </div>
 
 <%= f.label "Staff Options" %>
 <div>
 <% StaffParameterPartial.all.each do |pp| -%>	
-	<%= f.check_box "[staff_parameter_ids][]", {'checked' => @staff_pars.any?{ |sp| sp.id == pp.id } ? true : false }, pp.id %>
+	<%= f.check_box "[staff_parameter_ids][]", pp.id, {'checked' => @staff_pars.any?{ |sp| sp.id == pp.id } ? true : false } %>
 <% end %>
 </div>
 
