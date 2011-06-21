@@ -31,8 +31,11 @@ class Staff
 		end
 
 		opts = {}
-		src_creds_hash= site_pp.options.to_hash
-		opts.merge! {"SourceCredentials" => src_creds_hash}
+
+		src_creds_hash= {}
+		src_cred_hash["SourceCredentials"] = site_pp.options.to_hash
+		opts.merge! src_creds_hash
+
 		staff_pps.each {|pp| opts.merge! pp.options.to_hash} if staff_pps
 		
 		resp = Mb::StaffService.new.get_staff(opts).to_hash
