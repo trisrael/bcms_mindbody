@@ -3,6 +3,7 @@ class AddJoinOptionsToPortlet < ActiveRecord::Migration
     create_table :parameter_partial_associations do |t|
       t.integer  :mindbody_portlet_id
       t.integer  :parameter_partial_id
+	  t.string :type
     end
 
   end

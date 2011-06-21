@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110602161007) do
+ActiveRecord::Schema.define(:version => 20110615064736) do
 
   create_table "attachment_versions", :force => true do |t|
     t.integer  "attachment_id"
@@ -325,6 +325,7 @@ ActiveRecord::Schema.define(:version => 20110602161007) do
   create_table "parameter_partial_associations", :force => true do |t|
     t.integer "mindbody_portlet_id"
     t.integer "parameter_partial_id"
+    t.string  "type"
   end
 
   create_table "parameter_partials", :force => true do |t|
