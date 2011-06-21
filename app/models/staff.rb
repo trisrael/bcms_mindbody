@@ -8,16 +8,28 @@ class Staff
 		end		
 	end
 
-	def self.all(options = {})
-
+	def self.all(options = {})		
 		site_pp_id = options[:source_credentials]
 		staff_pp_ids = options[:staff_options]
 
+
+		throw "Must supply source credentials." unless site_pp_id
+
 		begin 
-			site_pp = SiteParameterPartial.find( site_pp_id.to_i )			 			
-			staff_pp_ids = StaffParameterPartial.find_all( staff_pp_ids.to_i )
+			site_pp = SiteParameterPartial.find( site_pp_id.to_i )
 		rescue
-			throw "Invalid parameter partials supplied."
+			throw "Invalid source credentials supplied."
+		end
+
+		if staff_pp_ids
+			throw staff_pp_ids.to_s
+			staff_pp_ids.split(/\s*,\s*/)
+		end
+
+		begin
+			staff_pp_ids = StaffParameterPartial.find_all( staff_pp_ids )
+		rescue
+			
 		end
 
 		opts = {}
