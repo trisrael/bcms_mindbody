@@ -12,7 +12,6 @@ class Staff
 		site_pp_id = options[:source_credentials]
 		staff_pp_ids = options[:staff_options]
 
-
 		throw ArgumentError.new "Must supply source credentials." unless site_pp_id
 
 		begin 
@@ -24,7 +23,7 @@ class Staff
 		if staff_pp_ids
 			staff_pp_ids = staff_pp_ids.split(/\s*,\s*/)
 			begin
-				staff_pps = StaffParameterPartial.find_all( staff_pp_ids )
+				staff_pps = StaffParameterPartial.find( staff_pp_ids )
 			rescue
 				throw ArgumentError.new "Invalid staff options ids supplied"
 			end
