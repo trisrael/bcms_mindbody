@@ -10,7 +10,7 @@ class StaffPortlet < Portlet
   enable_template_editor true
 
 
-  def attributes=(params)
+  def attributes=(params = {}, guard_protected_attributes = true)
 	super(params)
 	id_str = params[:site_parameter_partial_id]
 	if id_str
