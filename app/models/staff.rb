@@ -13,12 +13,12 @@ class Staff
 		staff_pp_ids = options[:staff_options]
 
 
-		throw "Must supply source credentials." unless site_pp_id
+		throw ArgumentError.new "Must supply source credentials." unless site_pp_id
 
 		begin 
 			site_pp = SiteParameterPartial.find( site_pp_id.to_i )
 		rescue
-			throw "Invalid source credentials supplied."
+			throw  ArgumentError.new "Invalid source credentials supplied."
 		end
 
 		if staff_pp_ids
@@ -26,7 +26,7 @@ class Staff
 			begin
 				staff_pps = StaffParameterPartial.find_all( staff_pp_ids )
 			rescue
-				throw "Invalid staff options ids supplied"
+				throw ArgumentError.new "Invalid staff options ids supplied"
 			end
 		end
 
