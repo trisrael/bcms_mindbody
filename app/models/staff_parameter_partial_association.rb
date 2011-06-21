@@ -1,0 +1,2 @@
+class StaffParameterPartialAssociation < ParameterPartialAssociation
+end

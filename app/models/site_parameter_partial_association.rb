@@ -1,0 +1,2 @@
+class SiteParameterPartialAssociation < ParameterPartialAssociation
+end
