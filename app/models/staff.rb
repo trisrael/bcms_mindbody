@@ -31,7 +31,7 @@ class Staff
 
 		opts = {}
 		opts.merge! site_pp.options.to_hash
-		staff_pps.each {|pp| opts.merge! pp.to_hash}
+		staff_pps.each {|pp| opts.merge! pp.options.to_hash}
 		
 		resp = Mb::StaffService.new.get_staff(opts).to_hash
 		arr = Array.new		
