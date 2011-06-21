@@ -22,19 +22,17 @@ class Staff
 		end
 
 		if staff_pp_ids
-			throw staff_pp_ids.to_s
-			staff_pp_ids.split(/\s*,\s*/)
-		end
-
-		begin
-			staff_pp_ids = StaffParameterPartial.find_all( staff_pp_ids )
-		rescue
-			
+			staff_pp_ids = staff_pp_ids.split(/\s*,\s*/)
+			begin
+				staff_pps = StaffParameterPartial.find_all( staff_pp_ids )
+			rescue
+				throw "Invalid staff options ids supplied"
+			end
 		end
 
 		opts = {}
-		opts.merge site_pp.options.to_hash
-		staff_pp_ids.each {|pp| opts.merge pp.to_has}
+		opts.merge! site_pp.options.to_hash
+		staff_pps.each {|pp| opts.merge! pp.to_hash}
 		
 		resp = Mb::StaffService.new.get_staff(opts).to_hash
 		arr = Array.new		
