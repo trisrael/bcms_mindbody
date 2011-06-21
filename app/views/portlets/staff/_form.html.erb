@@ -31,7 +31,7 @@
 <% SiteParameterPartial.all.each do |pp| -%>	
 	<% @r_id = radio_id(pp.id) %>
 	<%= label_tag @r_id, pp.name, { :title => pp.options.to_hash.to_yaml } %>
-	<%= f.radio_button :site_parameter_partial_id, pp.id , { :id => @r_id, 'checked' => @site_par_id == pp.id ? true : false } %>
+	<%= f.radio_button "site_parameter_partial_id[]", pp.id , { :id => @r_id, 'checked' => @site_par_id == pp.id ? true : false } %>
 <% end %>
 </div>
 </br>
