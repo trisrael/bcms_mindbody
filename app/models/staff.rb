@@ -1,5 +1,6 @@
 class Staff
 	attr_accessor :id, :bio, :image_url, :first_name, :last_name, :name
+	require 'yaml'
 
 	def initialize(options = {})
 		options.keys.each do |key|
@@ -34,6 +35,8 @@ class Staff
 		staff_pps.each {|pp| opts.merge! pp.options.to_hash}
 		
 		resp = Mb::StaffService.new.get_staff(opts).to_hash
+
+		throw resp.to_yaml
 		arr = Array.new		
 		staff = resp[:get_staff_response][:get_staff_result][:staff_members][:staff]
 		staff = [staff] unless staff.is_a? Array
