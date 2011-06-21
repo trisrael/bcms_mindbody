@@ -29,7 +29,6 @@ class StaffController < ActionController::Base
   #Takes a list of options held within a Staff Portlet and translates
   #them into understand options for the Mindbody API
   def translate_options(raw_portlet_mindbody_options)
-    raw_portlet_mindbody_options
   end
  
 
