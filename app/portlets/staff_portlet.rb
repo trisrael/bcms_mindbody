@@ -11,7 +11,9 @@ class StaffPortlet < Portlet
 
   def attributes=(params)
 	super(params)
-	raise params.inspect.to_s
+	id_str = params[:site_parameter_partial_id]
+	sp = SiteParameterPartial.find(id_str.to_i)
+	self.site_parameter_partial=( sp ) if sp	
   end
      
   def render
