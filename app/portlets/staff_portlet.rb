@@ -9,8 +9,10 @@ class StaffPortlet < Portlet
   # Mark this as 'true' to allow the portlet's template to be editable via the CMS admin UI.
   enable_template_editor true
 
+	require 'yaml'
   def attributes=(params)
 	super(params)
+	errors.add(params.to_yaml.to_s)
 #	id_str = params[:site_parameter_partial_id]
 #	sp = SiteParameterPartial.find(id_str.to_i)
 #	self.site_parameter_partial=(sp) if sp	
