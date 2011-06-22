@@ -1,4 +1,5 @@
 class StaffPortlet < Portlet
+
   has_many :staff_parameter_partial_associations, :foreign_key => "mindbody_portlet_id"
   has_many :site_parameter_partial_associations, :foreign_key => "mindbody_portlet_id"
   has_many :site_parameter_partials, :through => :site_parameter_partial_associations, :foreign_key => "mindbody_portlet_id", :source => :parameter_partial, :limit => 1, :before_add => :delete_others
