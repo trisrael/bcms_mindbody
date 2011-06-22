@@ -1,6 +1,5 @@
 class Staff
 	attr_accessor :id, :bio, :image_url, :first_name, :last_name, :name
-	require 'yaml'
 
 	def initialize(options = {})
 		options.keys.each do |key|
