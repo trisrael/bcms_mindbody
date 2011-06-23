@@ -1,7 +1,13 @@
 class StaffController < ActionController::Base
- 
+	rescue_from ArgumentError, :with => :render_404 
+
  def index
-	@staff = Staff.all(params)
+
+	begin 
+		@staff = Staff.all(params)
+	rescue
+		
+	end
 
 	respond_to do |format|
  		format.html #index.html.erb
