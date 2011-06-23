@@ -39,7 +39,6 @@ class Staff
 		
 		resp = Mb::StaffService.new.get_staff(opts).to_hash
 
-		throw resp.to_yaml
 		arr = Array.new		
 		staff = resp[:get_staff_response][:get_staff_result][:staff_members][:staff]
 		staff = [staff] unless staff.is_a? Array
