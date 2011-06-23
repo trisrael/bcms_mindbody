@@ -1,33 +1,29 @@
 require File.expand_path("../../spec_helper", __FILE__)
-require File.expand_path("../../soap_helper", __FILE__)
-
-require 'mindbody'
+require File.expand_path("../../staff_helper", __FILE__)
 
 module StaffConstants
 	Attributes = [:id, :bio, :image_url, :first_name, :last_name, :name]
 end
 
 describe StaffController do
+	include StaffHelper
+
 	before :each do
-		mock_staff_service		
-		get :index
+		mock_service
 	end
 
 	describe "#index" do
+
 		it "has 200 code" do
+			get :index, {:source_credentials => 1}
 			response.code.should eq("200")
 		end
 	
-		it "should return properly formatted json response of staff members" do
-			raise response.body.to_inspect
+		it "should fail to return failure when missing source creds" do
+			get :index
+			response.code.should eq("500")
 		end
-	end
-		
-	private
 
-	def mock_staff_service
-		staff_service = mock "MBStaffService" #Mock the instance to be created
-		staff_service.should_receive(:get_staff).and_return(SoapHelper.single_staff_response)
-		Mb::StaffService.stub!(:new).and_return(staff_service)
 	end
+
 end
