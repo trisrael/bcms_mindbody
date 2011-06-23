@@ -1,7 +1,7 @@
 module Cms::Routes
   def routes_for_bcms_mindbody
 
-	resources :staff, :only => [:index]
+	resources :staff, :only => [:index], :defaults => {:format => :json}
 
 	namespace :cms do		
 		    content_blocks :parameter_partials
