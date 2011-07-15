@@ -18,5 +18,4 @@ SPEC = Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.has_rdoc= true
   spec.extra_rdoc_files = ["README"]
-  spec.add_dependency('bcms_settings', '>= 1.0.5')	
 end
